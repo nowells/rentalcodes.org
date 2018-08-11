@@ -25,7 +25,14 @@ const turndownService = new TurndownService();
         const directory = path.join('.markdown-migration', path.dirname(htmlPath));
         const filename = path.basename(htmlPath).replace(/\.html$/, '.md');
         await fs.mkdirp(directory);
-        await fs.writeFile(path.join(directory, filename), turndownService.turndown(content));
+        await fs.writeFile(
+            path.join(directory, filename),
+`---
+layout: home
+---
+${turndownService.turndown(content)}
+`
+        );
     }));
 })();
 
