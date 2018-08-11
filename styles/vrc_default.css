@@ -501,41 +501,6 @@ a:hover.alwaysHot	{
 #sanitationDetails strong, #buildingDetails strong, #structuralDetails strong, #leadDetails strong, #lifeDetails strong, #mobileHomeDetails strong, #otherConcernsDetails strong	{
 	color:#fff;
 }
-#sanitationDetails img	{
-	position:absolute;
-	top:3px;
-	left:-14px;
-}
-#buildingDetails img	{
-	position:absolute;
-	top:38px;
-	left:-14px;
-}
-#structuralDetails img	{
-	position:absolute;
-	top:72px;
-	left:-14px;
-}
-#leadDetails img	{
-	position:absolute;
-	top:106px;
-	left:-14px;
-}
-#lifeDetails img	{
-	position:absolute;
-	top:142px;
-	left:-14px;
-}
-#mobileHomeDetails img	{
-	position:absolute;
-	top:176px;
-	left:-14px;
-}
-#otherConcernsDetails img	{
-	position:absolute;
-	top:218px;
-	left:-14px;
-}
 .areasButton a	{
 	display:block;
 	width:100%;
@@ -719,9 +684,13 @@ a:hover.alwaysHot	{
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#98a3a1', endColorstr='#86908e',GradientType=0 );
 }
 
+.areasButton + p {
+  display: none;
+}
+
 .areasButton:hover + p {
   z-index: 100;
-  display: block !important;
+  display: block;
 }
 
 .areasButton:hover + p strong {
