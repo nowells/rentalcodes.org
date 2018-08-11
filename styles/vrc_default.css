@@ -646,7 +646,7 @@ a:hover.alwaysHot	{
 	Copyright:  2018 Vermont Housing Finance Agency (VHFA). All rights reserved.
 --------------------------------------------------------------------------------- */
 
-/* Area of interest heading. */
+/* Area of interest/Who are you heading. */
 #areasOfInterest,
 #whoAreYou {
   height: 50px;
@@ -664,7 +664,7 @@ a:hover.alwaysHot	{
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#98a3a1', endColorstr='#86908e',GradientType=0 );
 }
 
-/* Area of interest menu. */
+/* Area of interest/Who are you menu. */
 .pointer {
   width: 20px;
   height: 20px;
@@ -725,10 +725,13 @@ a:hover.alwaysHot	{
   top: 212px;
 }
 
+/* Upper-right menu size. */
 #secondaryMenu li {
   font-size: 120%;
 }
 
+/* "A housing resource for Vermont town officials, landlords and tenants"
+   text in the header. */
 #logo + p em {
   color: #ffffff;
   text-align: right;
