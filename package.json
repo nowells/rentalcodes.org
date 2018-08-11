@@ -1,0 +1,29 @@
+{
+  "name": "www.rentalcodes.org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./broken-link-check.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowells/rentalcodes.org.git"
+  },
+  "author": "NextWeb Platform <nextweb_platform_us_grp@oracle.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowells/rentalcodes.org/issues"
+  },
+  "homepage": "https://github.com/nowells/rentalcodes.org#readme",
+  "dependencies": {
+    "broken-link-checker": "^0.7.8",
+    "execa": "^0.10.0",
+    "fs-extra": "^7.0.0",
+    "node-static": "^0.7.10",
+    "wait-on": "^2.1.0"
+  },
+  "devDependencies": {
+    "turndown": "^4.0.2"
+  }
+}
