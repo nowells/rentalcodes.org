@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="What landlords need to know before they can rent" />
+		<title>Before you can rent | Landlords | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="before-you-can-rent.php#content">Jump to content</a></li>
+					<li><a href="../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../municipalities">Municipalities</a></li>
+							<li><a href="../landlords">Landlords</a></li>
+							<li><a href="../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../index.php">Who are you?</a> > <a href="index.php">Landlords</a> &gt; Before you can rent</p>
+				<div class="grid_10 prefix_1">
+
+					<h1>Before you can rent</h1>
+
+					<p>The following is a summary of the <strong>minimum health and safety building standards a property must meet before it can be rented</strong> in accordance with the Vermont Departments of Health and Public Safety. Rented mobile homes must also meet these requirements. Depending on the age of a rental property, some regulations may apply differently. For the complete details on each requirement and definitions of key terms, see the <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf">Vermont Rental Housing Code</a> and the <a class="outsideLink" href="http://firesafety.vermont.gov/sites/firesafety/files/pdf/06FireCodeADOPTEDJune2009CORRECTED2011.pdf">Vermont Fire and Building Safety Code</a>.</p>
+					<p>Some municipalities have their own local health and/or safety codes that may include stronger standards and more detailed requirements. (See <a href="../../resources/communities-with-local-codes.php">"Communities with local codes."</a>) Landlords and tenants should contact their local health officer, town clerk's office, or the local Board of Health for more information on local regulations. This information does not constitute a legal opinion or advice.</p>
+					
+					<div class="sidebar">
+						<h2>Definitions</h2>
+						<dl>
+							<dt>Common space</dt>
+							<dd>All interior passageways, hallways, foyers, stairways, basements and rooms that can be used by multiple tenants</dd>
+							<dt>Dwelling</dt>
+							<dd>A building or structure used as a primary residence for living or sleeping, including mobile homes</dd>
+							<dt>Dwelling unit</dt>
+							<dd>A group of rooms within a dwelling, or any dwelling that forms a single habitable unit used for living, sleeping, cooking, and eating (for example, an apartment within an apartment building is a dwelling unit)</dd>
+							<dt>Habitable room</dt>
+							<dd>Every room used or intended to be used for living, sleeping, cooking, or seating purposes. This does not include bathrooms, closets, halls, or storage/utility spaces</dd>
+						</dl>
+						
+						<h2>Resources</h2>
+						<ul>
+							<li><a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf">Vermont Rental Housing Health Code</a></li>
+							<li><a class="outsideLink" href="http://firesafety.vermont.gov/sites/firesafety/files/pdf/06FireCodeADOPTEDJune2009CORRECTED2011.pdf">Vermont Fire and Building Safety Code</a></li>
+							<li><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/tho_rental-inspection.pdf">Vermont Housing Authority Inspection Checklist</a></li>
+							<li><a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">Vermont Landlord and Tenant Law</a></li>
+							<li><a class="outsideLink" href="http://www.cvoeo.org/downloads/housing/RENTINGinVERMONT.pdf">Renting in Vermont: Information Handbook for Tenants and Landlords</a></li>
+						</ul>
+					</div>
+					
+					<h2 id="sanitation">Sanitation facilities</h2>					<ul>
+						<li><strong>Kitchen</strong><br />
+						Every dwelling unit must contain:
+							<ul>
+								<li>A kitchen sink</li>
+								<li>Space to store, prepare and serve food in a sanitary manner</li>
+							</ul>
+						</li>
+						<li><strong>Bathroom</strong><br />
+						Every dwelling unit must contain:
+							<ul>
+								<li>A flush toilet</li>
+								<li>A sink</li>
+								<li>A bathtub or shower</li>
+							</ul>
+						</li>
+						<li><strong>Water supply</strong>
+							<ul>
+								<li>Every dwelling unit must be connected to a supply of drinkable water of sufficient quantity and pressure to meet the ordinary needs of the occupant(s)</li>
+								<li>Every kitchen sink, bathroom sink, shower, and tub must be capable of safely providing hot water</li>
+							</ul>
+						</li>
+						<li><strong>Sewage disposal</strong><br />
+						Every dwelling unit must be connected to either:
+							<ul>
+								<li>A public sewage system; or</li>
+								<li>A properly operating septic system ("subsurface wastewater disposal system")</li>
+							</ul>
+						</li>
+						<li><strong>Trash disposal</strong><br />
+						The owner of a dwelling must:
+							<ul>
+								<li>Provide and maintain appropriate trash receptacles </li>
+								<li>Assure that arrangements are made for removal </li>
+								<li>Keep common spaces in a sanitary condition and free of garbage </li>
+							</ul>
+						</li>
+						<li><strong>Insects and rodents</strong><br />
+						The owner of a dwelling must:
+							<ul>
+								<li>Maintain all common spaces free from rodent and insect infestation</li>
+								<li>Be responsible for exterminating rodent and insect infestations:
+									<ul>
+										<li>In all common spaces </li>
+										<li>When the infestation exists in two or more dwelling units</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+					<p>For more information about what's required, <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf#page=5">consult the Vermont Rental Housing Code</a>.</p>
+<h2 id="buildingsystems">Building systems</h2>					<ul>
+						<li><strong>Heating</strong><br />
+							<ul>
+								<li>Every dwelling unit must have heating facilities capable of maintaining a room temperature of 65&#176;F (18&#176;C) in all habitable rooms when the outside temperature is less than 55&#176;F</li>
+								<li>All fuel-burning appliances must be inspected at least once every two years</li> 
+							</ul>	
+						<li><strong>Ventilation</strong><br />
+							<ul>
+								<li>Every habitable room in a dwelling unit must have ventilation to the outdoors, including at least one window or door that can be opened to the outdoors without tools</li>
+								<li>Every bathroom must have ventilation to the outdoors</li>
+								<li>All fuel-burning appliances must be vented to the outside of the building</li>
+							</ul>
+						</li>
+						<li><strong>Lighting/electricity</strong>
+							<ul>
+								<li>Every habitable room in a dwelling unit must contain:
+									<ul>
+										<li>At least two duplex electrical outlets; or</li>
+										<li>One duplex electrical outlet and a light fixture</li>
+									</ul>
+								</li>
+								<li>Every bathroom and entrance must be adequately lit</li>
+							</ul>
+						</li>
+					</ul>
+					
+					<p>For more information about what's required, <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf">consult the Vermont Rental Housing Code</a>.</p>
+<h2 id="structuralelements">Structural elements</h2>					<p>Every dwelling unit must be:</p>
+					<ul>
+						<li><strong>Weathertight</strong> &#8212; Constructed to prevent air infiltration and resist weather such as rain and snow</li>
+						<li><strong>Watertight</strong> &#8212; Constructed to be substantially impermeable to the passage of water</li>
+						<li><strong>Rodent proof</strong> &#8212; Constructed and maintained to prevent the movement of rodents</li>
+						<li><strong>In good repair</strong></li>
+						<li><strong>Dry/mold free</strong> &#8212; As described in the Rental Housing Health Code</li>
+						<li><strong>Compliant with applicable building codes</strong></li>
+					</ul>
+					
+					<p>For more information about what's required, <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf#page=10">consult the Vermont Rental Housing Code</a>.</p>
+<h2 id="leadpaint">Lead paint</h2>					<p>Every owner of a pre-1978 rental unit in Vermont must:</p>
+					<ul>
+						<li>Ensure Essential Maintenance Practices ("EMPs") are performed by a certified EMP practitioner</li>
+						<li>File an EMP Compliance Statement every year with:
+							<ul>
+								<li>The Vermont Department of Health</li>
+								<li>The owner's insurance carrier</li>
+								<li>The tenant</li>
+							</ul>
+						</li>
+					</ul>
+										<p><a class="more" href="lead-paint.php">Read more: The dangers of lead paint, EMPs, and how to file a compliance statement</a></p>
+										
+<h2 id="lifesafety">Life safety</h2>					<ul>
+						<li>Every dwelling unit must contain:
+							<ul>
+								<li>Working smoke alarms in all sleeping areas and in the immediate vicinity outside of each separate sleeping area:
+									<ul>
+										<li>With battery back-up</li>
+										<li>Directly wired to the building electrical service</li>
+										<li>If installed after June 15, 2009, smoke alarms must be the photo-electric only type</li>
+									</ul>
+								</li>
+								<li>Working carbon monoxide alarms:
+									<ul>
+										<li>With battery back-up</li>
+										<li>Directly wired to the building electrical service</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li>All exits and means of escape from dwelling units must be:
+							<ul>
+								<li>Of sufficient size to allow for escape in an emergency</li>
+								<li>Must be kept clear and unobstructed</li>
+								<li>Not used for storage, trash or recycling containers, or appliances</li>
+							</ul>
+						</li>
+						<li>Access to windows and doors must not be blocked by furniture or other obstructions</li>
+						<li>For more detailed information on landlord obligations under life safety regulations, <a class="outsideLink" href="http://dps.vermont.gov">see the Vermont Department of Public Safety website</a> and <a class="outsideLink" href="http://firesafety.vermont.gov/sites/firesafety/files/pdf/Misc%20Forms/Access%20%26%20ADA/landlord_info.pdf">see the Vermont Department of Public Safety brochure</a></li>
+					</ul>
+					<p>For more information about what's required, <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf">consult the Vermont Rental Housing Code</a>.</p>
+<h2 id="mobilehomelots">Mobile homes</h2>					<ul>
+						<li><strong>Mobile home</strong> &#8212; Means the structure or type of manufactured home that is designed for long-term and continuous residential occupancy.
+							<ul>
+								<li>A mobile home may be owner occupied or rented.</li>
+								<li>The <a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">rental housing health code</a> applies to all rented mobile homes regardless of whether the home is sited on a mobile home lot or in a mobile home park.</li>
+								<li>Town health officers can investigate a complaint regarding a rented mobile home.</li>
+							</ul>
+						</li>
+						<li><strong>Mobile home lot</strong> &#8212; Means any parcel of land not located in a mobile home park that is leased to a mobile home owner and establishes a property right by way of a lease to the lot.
+							<ul>
+								<li>The <a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">rental housing health code</a> requires every mobile home lot to have a safe connection to electrical services, water supply, and sewage disposal.</li>
+								<li>Town health officers can investigate a complaint regarding the connection to electrical service, water supply and sewage disposal for a mobile home lot.</li>
+							</ul>
+						</li>
+						<li><strong>Mobile home park</strong> &#8212; Means any parcel of land which contains, or is designed to accommodate, more than two mobile homes. Mobile home parks have
+						<a class="outsideLink" href="http://accd.vermont.gov/sites/accdnew/files/documents/H-RulesPartIII-Adopted.pdf">habitability requirements for rented lots in mobile home parks</a> that include:
+							<ul>
+								<li>Mobile home park lots must be safe, clean, and habitable; i.e. free from hazards, sanitary, and usable</li>
+								<li>Mobile home parks in general, including common areas, facilities and park roads, must be safe and fit for their intended use</li>
+								<li><a class="outsideLink" href="https://legislature.vermont.gov/statutes/chapter/10/153">Vermont's Mobile Home Park Law</a> requires every mobile home park lot to have a safe connection to electrical services, water supply, and sewage disposal.</li>
+								<li>The <a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">rental housing health code</a> does <strong><em>not apply</em></strong> to an owner occupied mobile home located in a mobile home park.</li>
+								<li>Mobile home park owners are subject to <a class="outsideLink" href="http://www.leg.state.vt.us/statutes/sections.cfm?Title=10&amp;Chapter=153">Vermont's Mobile Home Park Law</a>.</li>
+							</ul>
+						</li>
+					</ul>
+					
+					<p>For more information about what's required, <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf">consult the Vermont Rental Housing Code</a> or <a class="outsideLink" href="http://accd.vermont.gov/housing">contact the Vermont Department of Housing and Community Development</a> or the <a class="outsideLink" href="https://www.cvoeo.org/?fuseaction=dep_intro&dept_id=13">CVOEO Mobile Home Project</a>.</p>
+
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="Information about pests and infestations for town health officers" />
+		<title>Infestations | Municipalities | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="infestations.php#content">Jump to content</a></li>
+					<li><a href="../../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../../municipalities">Municipalities</a></li>
+							<li><a href="../../landlords">Landlords</a></li>
+							<li><a href="../../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../../index.php">Who are you?</a> > <a href="../index.php">Municipalities</a> &gt; <a href="index.php">Issues and areas of housing concern</a> &gt; Infestations</p>
+				<div class="grid_10 prefix_1">
+
+					<h1>Infestations</h1>
+					<p>Although rodents and insects generally are not considered to be significant threats to human health, in some instances they are capable of spreading disease. When rodents and/or insects do become a significant nuisance or threat to health, their eradication is generally best left to professional pest control operators that receive certification from the Vermont Agency of Agriculture, Food &amp; Markets.</p> 
+					<p>In addition to the use of professionals, there are two other things that should be considered when attempting to eradicate a rodent or insect infestation:</p>
+					
+					<ul>
+						<li>Removal of food and water sources will help reduce or prevent infestations</li>
+						<li>Any possible entry points in a building should be identified and rodent/insect proofing of the structure should be done to prevent entry.</li>
+					</ul>
+					
+					<h2>Role of the town health officer</h2>
+					<p>Town health officers may be contacted at times to respond to a rodent or insect problem. Although infestations of rodents and insects generally would not fall under the jurisdiction of a health officer, a town health officer may need to inspect the situation to determine whether it is a violation of the <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf">Rental Housing Health Code</a>.</p>
+					<p>Under the Rental Housing Health Code, landlords are responsible for exterminating rodent and insect infestations in common spaces or in any rental unit when the infestation is caused by the landlord's failure to maintain cleanliness or the infestation occurs in two or more rental units within the same building.</p>
+					<p><a class="outsideLink" href="http://healthvermont.gov/local/tho/tho.aspx">More information on rodent and insect infestations</a> can be found on the Department of Health website.</p>
+					<p><a class="outsideLink" href="http://healthvermont.gov/prevent/bedbugs/index.aspx">Specific materials on bed bug infestations</a> are also available on the Department of Health website, including a <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/BedBugs_FactSheet.pdf">Bed Bug Fact Sheet</a>.</p>
+					
+					<p><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual.pdf">Read more about infestations in the Vermont Town Health Officer Manual</a></p>
+
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

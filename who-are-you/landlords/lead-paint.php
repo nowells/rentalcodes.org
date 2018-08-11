@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="Lead paint information for landlords" />
+		<title>Lead paint | Landlords | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="lead-paint.php#content">Jump to content</a></li>
+					<li><a href="../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../municipalities">Municipalities</a></li>
+							<li><a href="../landlords">Landlords</a></li>
+							<li><a href="../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../index.php">Who are you?</a> > <a href="index.php">Landlords</a> &gt; <a href="before-you-can-rent.php">Before you can rent</a> &gt; Lead paint</p>
+				<div class="grid_10 prefix_1">
+	
+					<h1>Lead paint</h1>
+					
+					<div class="sidebar">
+						<h2 id="generalresources">General resources</h2>
+						<h3>Laws and codes</h3>
+						<ul>
+							<li><a class="outsideLink" href="http://www.leg.state.vt.us/statutes/sections.cfm?Title=18&amp;Chapter=038">Vermont Lead Law</a></li>
+							<li><a class="outsideLink" href="http://healthvermont.gov/enviro/lead/lead_disclosure.aspx">Federal Lead Disclosure Law</a></li>
+							<li>Safe Work Practices Laws &#8212; These laws apply to rental housing as well as owner occupied housing
+								<ul>
+									<li><a class="outsideLink" href="http://www.leg.state.vt.us/statutes/fullsection.cfm?Title=18&amp;Chapter=038&amp;Section=01760">Vermont Lead Poisoning Law</a></li>
+									<li><a class="outsideLink" href="http://www.epa.gov/lead/pubs/renovation.htm">Federal Lead Paint Renovation, Repair and Painting Rule</a></li>
+									<li>For more information <a class="outsideLink" href="http://www.atg.state.vt.us/assets/files/AGO%20guidance%20on%20Safe%20Work%20Practices.pdf">see the Vermont Attorney General's Guidance on Lead Safe Work Practices</a></li>
+								</ul>
+							</li>
+						</ul>
+					
+						<h3>More information on lead poisoning and Vermont lead laws</h3>
+						<ul>
+							<li><a class="outsideLink" href="http://www.leadsafevermont.org/">Lead Safe Vermont</a> &#8212; Information on lead poisoning and <a class="outsideLink" href="http://www.leadsafevermont.org/html/land_leadlaw.html">an overview of EMPs and lead law requirements</a></li>
+							<li>Vermont Department of Health, <a class="outsideLink" href="http://healthvermont.gov/enviro/lead/lead.aspx">Lead Resource Guide</a></li>
+							<li>Information on <a class="outsideLink" href="http://www.vhcb.org/lead.html">financial assistance for eligible landlords</a></li>
+							<li><a class="outsideLink" href="http://www.atg.state.vt.us/issues/consumer-protection/lead-issues.php">Vermont Attorney General's Office</a></li>
+							<li><a class="outsideLink" href="http://www.epa.gov/lead/pubs/leadpdfe.pdf">Hazards of Lead in Housing</a></li>
+							<li><a class="outsideLink" href="http://www.epa.gov/lead/pubs/leadpdfe.pdf">Protect Your Family From Lead in Your Home</a></li>
+							<li>Vermont Lead Safety Project &#8212; 1-800-439-8550</li>
+							<li><a class="outsideLink" href="http://www.atg.state.vt.us/assets/files/Get the Lead Out.pdf">Get the Lead Out of Vermont</a> &#8212; A year-long study on lead poisoning in Vermont</li>
+							<li><a class="outsideLink" href="http://www.atg.state.vt.us/assets/files/The Cost of Lead Poisoning in Vermont.pdf">"The Costs of Lead Poisoning in Vermont"</a> &#8212; The Dartmouth Report</li>
+							<li><a class="outsideLink" href="http://www.burlingtonvt.gov/CEDO/LeadProgram/">City of Burlington’s Lead Program</a></li>
+						</ul>
+						<h4>Resources for EMPs</h4>
+						<ul>
+							<li><a class="outsideLink" href="http://healthvermont.gov/enviro/lead/documents/RentalPropertyOwnerFactSheetFinal6.9.08PDF.pdf">EMPs fact sheet</a>, Vermont Department of Health</li>
+							<li><a class="outsideLink" href="http://www.cvoeo.org/htm/Housing/tenants/lead/Overview_of_Vt_Lead_Law.html">Vermont Tenants Inc.</a> &#8212; Lead Law information for tenants and landlords</li>
+							<li><a class="outsideLink" href="http://healthvermont.gov/enviro/lead/emp_contractor.aspx">List of approved EMP contractors</a></li>
+							<li><a class="outsideLink" href="http://www.leadsafevermont.org/html/landlords.html">List of free EMP certification classes</a></li>
+							<li><a class="outsideLink" href="http://www.leadsafevermont.org/download/EMP Manual 2009 Approved Master.pdf">EMP Certification Course Manual</a></li>
+						</ul>
+					</div>
+					
+					<h2>What is lead poisoning?</h2>
+					<p>Lead poisoning is caused by the build-up of lead in the body, and can cause a number of serious medical problems including permanent damage to the brain and central nervous system. Because lead stays in the body and builds over time, steady exposure to even small amounts of lead can cause lead poisoning.</p>
+					<p>Lead is particularly toxic to children, especially under 6 years of age. Over time, even very small amounts of lead in a child's body can significantly lower intelligence, cause serious learning disabilities, and delay growth.</p>
+					<p>In Vermont, the most common source of lead poisoning in children comes from exposure to lead-based paints, which are still commonly found in older homes. Children get lead dust on their hands or on their toys and get poisoned when they put their fingers and toys in their mouth.</p>
+					
+					<h2>Federal lead laws</h2>
+					<h3>Renovation, Repair and Painting Rule (RRP)</h3>
+					<p>The Federal Renovation, Repair and Painting Rule (RRP) took effect in 2010.  This nationwide law requires that individuals performing work in pre-1978 dwellings have the proper 8-hour certification and utilize and document the use of Lead Safe Work Practices and proper cleaning of the work site. <strong>Landlords are required to have the proper certification and follow the RRP Rule when working on their own pre-1978 rental units.</strong></p>
+					<ul>
+						<li><a class="outsideLink" href="http://www.epa.gov/lead/pubs/renovation.htm">Renovation, Repair and Painting Rule</a></li>
+						<li><a class="outsideLink" href="http://www.leadsafevermont.org/html/epa_renovator_rule_trainings.html">Renovation, Repair and Painting Rule classes</a></li>
+						<li><a class="outsideLink" href="http://cfpub.epa.gov/flpp/searchrrp_firm.htm ">Finding a Renovation, Repair and Painting Rule-certified contractor</a></li>
+					</ul>
+					
+					<h3>Federal and State of Vermont Disclosure Laws</h3>
+					<p><strong>Real Estate Transaction Disclosure.</strong> When selling a pre-1978 Rental Dwelling, the seller must disclose to the buyer any known Lead-Based Paint or Lead-Based Paint hazards based on certain <a class="outsideLink" href="http://healthvermont.gov/enviro/lead/RealEstateTransactions.aspx">requirements</a>.</p>	
+					<p><strong>Rental Unit (Tenant) Disclosure.</strong> Landlords of pre-1978 rental units must disclose to tenants any known Lead-Based Paint or Lead-Based Paint hazards based on certain <a class="outsideLink" href="http://healthvermont.gov/enviro/lead/lead_disclosure.aspx">requirements</a>.</p>
+
+					<h2>Vermont lead laws</h2>
+					<p>To help prevent lead poisoning, particularly in children, <a class="outsideLink" href="http://www.leg.state.vt.us/statutes/sections.cfm?Title=18&amp;Chapter=038">Vermont passed a lead law</a> requiring all landlords who own rental property built before 1978 to:</p>
+					<ul>
+						<li>Conduct Essential Maintenance Practices (EMPs) every year</li>
+						<li>File an annual EMP Compliance Statement with the Vermont Department of Health certifying that EMPs were completed on the property</li>
+						<li>Provide a copy of completed EMP Compliance Statement to all tenants and your insurance carrier</li>
+					</ul>
+										
+					<p>When conducting repairs or updates to rental properties, landlords should also be aware of the federal <a class="outsideLink" href="http://www.epa.gov/lead/pubs/renovation.htm">Lead Paint Renovation, Repair and Painting Rule</a> and the Safe Work Practices required under <a class="outsideLink" href="http://www.leg.state.vt.us/statutes/fullsection.cfm?Title=18&amp;Chapter=038&amp;Section=01760">Vermont's Lead Law</a>.</p>
+					<ul>
+						<li><a class="outsideLink" href="http://www.epa.gov/lead/pubs/renovaterightbrochure.pdf">EPA's Lead Safe Certified Guide to Renovate Right</a></li>
+						<li><a class="outsideLink" href="http://leadsafevermont.org/html/contract_working.html">Lead Safe Vermont &#8212; Working with Lead Paint</a></li>
+					</ul>
+
+					<h3>Essential Maintenance Practices (EMPs)</h3>
+					<ul>
+						<li><strong>What are EMPs?</strong><br />
+						EMPs are Essential Maintenance Practices that must be conducted every year to minimize the exposure of tenants, especially children, to lead-based paint in rental properties. EMPs include:
+							<ul>
+								<li>Inspecting both the inside and the outside of the property for peeling paint</li>
+								<li>Identifying and promptly repairing areas where paint is in poor condition</li>
+								<li>Conducting repairs within 30 days where paint is deteriorated in an area larger than 1 square foot</li>
+								<li>Removing all visible paint chips from property, including ground outside the building</li>
+								<li>Performing specialized cleaning in all common areas, at unit turnover, and after any work that disturbs painted surfaces</li>
+								<li>Installing window well inserts where needed</li>
+								<li>Posting a notice asking tenants to report paint deterioration</li>
+							</ul>
+							<!--
+							Once printed and filled out, forms can be sent to:<br /><br />
+							<address>
+								Vermont Department of Health<br />
+								Childhood Lead Poisoning Prevention Program<br />
+								PO Box 70<br />
+								Burlington, VT 05402-0070<br />
+							</address>
+							Once filed with the Department of Health, a copy must be given to tenants along with your insurance carrier.</li>
+						-->
+						<li><strong>Do I need to perform EMPs?</strong><br />
+						EMPs <em>must</em> be performed every year on any rental property build before 1978, unless the property has been certified as lead-free.</li>
+						<li><strong>Who can perform them?</strong><br />
+						EMPs can only be conducted by someone who has been EMP certified. To become EMP certified, you must take a class. Classes are offered regularly and are usually free. A schedule of upcoming free classes can be found at <a class="outsideLink" href="http://leadsafevermont.org">leadsafevermont.org</a>.</li>
+						<li><strong>How do I file a compliance form?</strong><br />
+						Forms can be filed on-line at the <a class="outsideLink" href="http://healthvermont.gov/enviro/lead/lead_property.aspx">Vermont Department of Health website</a>:
+						<ul>
+							<li><a class="outsideLink" href="https://secure.vermont.gov/VDH/emp/">EMP Compliance Statement Service</a></li>
+						</ul>
+						</li>
+						<li><strong>How often do I need to do this?</strong><br />
+						EMP Compliance Statements must be filed with the Vermont Department of Health every 365 days. 
+						</li>
+						<li><strong>Consequences of not filing</strong><br />
+						Failure to file an EMP Compliance Statement can result in fines and legal action. For a list of enforcement actions that have been brought against lead law violators, <a class="outsideLink" href="http://www.atg.state.vt.us/issues/consumer-protection/lead-issues/enforcement-actions-and-settlements.php">see the Vermont Attorney General's website</a>.
+						</li>
+					</ul>
+								
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

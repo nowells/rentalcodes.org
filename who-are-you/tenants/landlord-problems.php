@@ -1,0 +1,238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="Information for tenants on how to deal with problem landlords" />
+		<title>Problems with landlords | Tenants | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="landlord-problems.php#content">Jump to content</a></li>
+					<li><a href="../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../municipalities">Municipalities</a></li>
+							<li><a href="../landlords">Landlords</a></li>
+							<li><a href="../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../index.php">Who are you?</a> > <a href="index.php">Tenants</a> &gt; Problems with landlords</p>
+
+				<div class="grid_10 prefix_1">
+					
+					<h1>Problems with landlords</h1>
+					
+					<div class="sidebar">
+						<h3>Resources for tenants</h3>
+						<ul>
+							<li><a class="outsideLink" href="https://legislature.vermont.gov/statutes/chapter/09/137">Vermont Residential Rental Agreements Law</a></li>
+							<li><a class="outsideLink" href="http://www.cvoeo.org/fileLibrary/file_212.pdf">Renting in Vermont: Information Handbook for Tenants and Landlords</a></li>
+							<li><a class="outsideLink" href="http://www.lawlinevt.org">Vermont Law Line</a> &#8212; Legal assistance by telephone for low-income Vermonters</li>
+							<li><a class="outsideLink" href="http://www.vtlegalaid.org">Vermont Legal Aid</a> &#8212; Free legal assistance for qualified</li>
+							<li><a class="outsideLink" href="http://www.cvoeo.org/index.cfm?fuseaction=dep_intro&dept_id=15">Vermont Tenants</a></li>
+							<li><a class="outsideLink" href="http://www.vaoa.com">Vermont Apartment Owners Association</a></li>
+						</ul>
+					</div>
+					
+					<h2>Repairs</h2>
+					<p>Your landlord is obligated to perform repairs throughout your tenancy to keep the rental unit up to the standards required by the Vermont Departments of Health and Safety.</p>
+					<p>If code violations that pose a health and safety issue are reported to your landlord and he or she fails to make the appropriate repairs within a reasonable time, you may have other forms of recourse. For information on what's appropriate, contact <a class="outsideLink" href="http://www.vtlegalaid.org/">Vermont Legal Aid</a> or <a class="outsideLink" href="http://www.cvoeo.org/index.cfm?fuseaction=dep_intro&dept_id=15">Vermont Tenants</a>. There are <a class="outsideLink" href="https://legislature.vermont.gov/statutes/section/09/137/04459">specific procedures to follow</a> and those contacts as well as state statute explain those.</p> 
+					<p>If your landlord fails to complete minor repairs within 30 days from the time you notified him or her of the issue, there may be steps you can take, but it's important to follow the procedures. For more information, contact <a class="outsideLink" href="http://www.vtlegalaid.org/">Vermont Legal Aid</a>, <a class="outsideLink" href="http://www.cvoeo.org/index.cfm?fuseaction=dep_intro&dept_id=15">Vermont Tenants</a> or <a class="outsideLink" href="https://legislature.vermont.gov/statutes/section/09/137/04459">read the state statute</a>.</p>
+					<p>There are <a href="../landlords/rights-responsibilities.php#enteringtenantoccupiedpremises">certain procedures that must be followed when entering units to make repairs</a>.</p>
+					
+					<h2>Infestations</h2>
+					<p>If there is an infestation of insects or rodents in:</p>
+					<ul>
+						<li>Common spaces of your rental property that you share with other tenants; or</li>
+						<li>Two or more apartments in your building</li>
+					</ul>
+					<p>... and the infestation is caused by your landlord's failure to maintain the premises, then your landlord is responsible for arranging and paying for extermination.</p>
+					<p>However, if the infestation is caused by your failure to maintain a clean rental unit, then you can be held responsible for the extermination costs.</p>
+					<p>Read more: <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf">Rental Housing Health Code</a></p>
+
+					<h2>Lead paint violations</h2>
+					
+					<p>If your rental unit was built before 1978, your landlord is responsible for performing Essential Maintenance Practices every year to minimize your exposure to any lead in the paint on and around the property.</p>
+					<p>Your landlord should provide you with a copy of the EMP Compliance Form he or she is required to file every year with the Vermont Department of Health certifying the EMPs have been performed within the last 365 days.</p>
+					<p>For more details on your landlord's obligations under Vermont's lead law and how to file a complaint if you suspect your landlord is not complying with these requirements, <a href="lead-paint.php">see Lead Poisoning and Vermont's Lead Law</a>. </p>
+					
+					<h2>Retaliation for tenant complaints</h2>
+					<p>It is illegal for your landlord to retaliate against you for any complaints you have made to him or her or to any government authority about the condition of your rental property.</p>
+					<p>Retaliatory actions are those intended to punish you or to drive you to move out. Examples of illegal retaliation include:</p>
+					<ul>
+						<li>Raising the rent as punishment</li>
+						<li>Taking away established privileges of tenants, such as allowing pets</li>
+						<li>Changing terms or agreed upon services of a tenancy</li>
+						<li>Terminating your lease for any reason besides nonpayment of rent within 90 days of government notice that the property is in violation of health or safety codes</li>
+					</ul>
+					<p>If your landlord takes illegal retaliatory action against you, you may recover damages against him or her.</p>
+					<p>Read more: <a class="outsideLink" href="https://legislature.vermont.gov/statutes/section/09/137/04465">Title 9, Chapter 137, 9 V.S.A. &#167; 4465</a></p>
+					
+					<h2>Eviction</h2>
+					<p>Eviction is the legal process of forcing a tenant to move out of a rental property. You cannot be "evicted" until the entire process is over and you have been delivered a court order. In order to be evicted, your landlord must have legal grounds on which to evict (see "Reasons for Eviction") and follow the proper procedural steps (see "The Eviction Process" below). For more detailed information about the eviction process and illegal eviction actions, see <a class="outsideLink" href="https://legislature.vermont.gov/statutes/chapter/09/137">Vermont's Residential Rental Agreements law</a> and the <a class="outsideLink" href="http://www.cvoeo.org/fileLibrary/file_212.pdf">The Definitive Guide to Renting in Vermont</a>.</p>
+					
+					<h3>Reasons for eviction: Common legal grounds for evicting tenants</h3>
+					<h4>Nonpayment of rent</h4>
+					<p>If you fail to pay rent on time or at all, your landlord may evict you <strong><em>if</em></strong>:</p>
+					<ul>
+						<li>You are given <strong>14 days</strong> written notice, specifically stating how much rent is owed</li>
+						<li>You fail to pay in full (all rent due through the end of the rental period) within the 14 days</li>
+					</ul>
+					
+					<h4>Sale of rental property</h4>
+					<p>If your lease is month to month (not a set term of months or years) and your landlord sells the property you are renting, you may only be evicted with <strong>30 days</strong> written notice to vacate the building.</p>
+					<p>Note: If your lease is for a set term, your landlord cannot evict you when the property is sold. Instead, your lease transfers to the new owner.</p>
+					
+					<h4>Breach of rental agreement</h4>
+					<p>If you violate the terms of your rental agreement, you may only be evicted with: <strong>30 days</strong> written notice, specifically stating what lease term/s you broke and how.</p>
+					<p>Note: If the violation is based on criminal, illegal drug, or dangerous activity, then your landlord is only required to give you <strong>14 days</strong> written notice.</p>
+					
+					<h4>Tenants living in landlord's home</h4>
+					<p>If you are renting a room within your landlord's home that includes shared use of common spaces (e.g. a bathroom or kitchen), you may be evicted with: <strong>15 days</strong> written notice.</p>
+
+					<h3>No-cause evictions</h3>
+					<p>When a landlord wishes to terminate a tenancy for none of the above reasons, it is considered a "no cause eviction." No cause evictions are only possible when there is no lease or the lease is open-ended (e.g. month to month or week to week).</p>
+					<p>If you have a lease for a set amount of time, your landlord can only evict you for no cause during that time if the lease specifically allows for a no cause eviction. Even if the lease allows for a no cause eviction, you must still be given proper written notice.</p>
+					<p>Your landlord can only terminate a lease for no cause <strong><em>if</em></strong>:</p>
+					<ul>
+						<li>For month-to-month leases, you are given <strong>60 days</strong> written notice</li>
+						<li>For week-to-week leases, you are given <strong>21 days</strong> written notice</li>
+						<li>If you have resided in the rental for more than 2 continuous years, you are given <strong>90 days</strong> written notice</li>
+					</ul>
+					<p>Note: <a class="outsideLink" href="https://www.codepublishing.com/VT/Burlington/">Burlington has stricter notice requirements for no cause evictions</a></p>
+
+					<h3>The eviction process</h3>
+					<p>The eviction process will generally take at least two months from the time you are given notice to the time a court order is issued. Some evictions last much longer. Your landlord must carefully adhere to the eviction procedure &#8212; if a landlord takes steps on his or her own to get rid of a tenant, it can be considered an illegal eviction and the landlord may be sued by the tenant.</p>
+					<ol style="padding-bottom:0;">
+						<li><strong>Step 1: Notice</strong>
+							<ul>
+								<li>Your landlord must give you written notice of the need for you to vacate the premises</li>
+								<li>The amount of time required depends on the grounds for eviction (see above)</li>
+							</ul>
+						</li>
+						<li><strong>Step 2: Summons and complaint</strong>
+							<ul>
+								<li>If you have not left the premises by the end of the notice period, your landlord can then file suit against you in the superior court of the county where the property is located</li>
+								<li>The court papers, called a summons and complaint, are then delivered to you by a sheriff or constable</li>
+								<li>Once you have received the summons and complaint, you have 20 days to respond with a written answer to the court</li>
+							</ul>
+						</li>
+						<li><strong>Step 3: Court order</strong>
+							<ul>
+								<li>If you fail to answer the summons and complaint, the judge can award the landlord a writ of possession, which entitles the landlord take possession of the rental no less than 10 days after the writ is issued</li>
+								<li>If you do answer the summons and complaint, the matter will go before a judge unless you come to a written agreement with your landlord that is filed with the court clerk</li>
+								<li>If the judge finds for your landlord, a writ of possession is then issued to the him or her to take control of the premises</li>
+								<li>A sheriff serves the writ of possession on you, and if necessary can physically remove you and your belongings from the premises</li>
+							</ul>
+						</li>
+					</ol>
+
+					<h3>Rent escrow hearings</h3>
+					<p>In any eviction action, you can be ordered to pay rent to the court while the action is pending. This is called <a class="outsideLink" href="https://legislature.vermont.gov/statutes/section/12/169/04853a">rent escrow</a>. As you pay rent to the court, the accruing rent money is held by the court and then distributed after a judgment is handed down.</p>
+					<p>If after a hearing, the court finds for the landlord, then the landlord will receive the rent that has been held in escrow by the court. If the court finds for the tenant, the tenant is then reimbursed the rent money he or she paid to the court while the action was pending.</p>
+					
+					<h3>Illegal eviction actions</h3>
+					<p>If your landlord takes action outside of the court system to try to get you to move out, it is generally considered an illegal eviction. Illegal eviction actions include:</p>
+					<ul>
+						<li>Turning off tenant's utilities</li>
+						<li>Padlocking doors to prevent tenant from entering</li>
+						<li>Removing a tenant's possessions from the property without a court order</li>
+						<li>Confiscating or denying tenants access to their personal property</li>
+					</ul>
+					<p>If you landlord takes any illegal eviction action, you may recover damages against him or her.</p>
+					
+					<h3>Abandoned property</h3>
+					<p>If you leave <a class="outsideLink" href="https://legislature.vermont.gov/statutes/section/09/137/04462">abandoned property</a> behind after moving out without giving notice, your landlord must take certain steps before claiming or disposing of any of the remaining property. Before claiming or disposing of abandoned property, your landlord must:</p>
+					<ul>
+						<li>Give 60 days written notice to your last known mailing address</li>
+						<li>Keep the property safe and dry for the 60 day notice period</li>
+					</ul>
+					<p>If you claim your abandoned property within the 60 day notice period, your landlord can require a reasonable written description of the property and reasonable payment for the cost of storage.</p>
+					<p>This does not include garbage or refuse, or property left behind if you gave your landlord actual notice of vacating the property or you vacated at the end of a lease. In these circumstances, any remaining property may be disposed of or claimed by your landlord immediately.</p>
+					
+					<h2>Living in a property in foreclosure</h2>
+					<p>If your rental property is foreclosed upon, you are entitled to a minimum of 90 days notice, and in most cases, the right to continue occupying the rental unit until the end of your lease term. For more information, see:</p>
+					<ul>
+						<!--<li><a class="outsideLink" href="http://www.cvoeo.org/downloads/housing/Notice-for_Tenants_FedProtection_In_Foreclosure.pdf">Vermont Tenants, Inc. Information Sheet on Foreclosed Rental Properties</a></li>--> <!--This was removed 2/14/2018 per Leslie/Mia's request-->
+						<li><a class="outsideLink" href="http://vtlawhelp.org/node/828">Vermont Law Help</a></li>
+						<li><a class="outsideLink" href="http://nlihc.org/library/foreclosure">National Low Income Housing Coalition</a></li>
+					</ul>
+					
+					<h2>Who to contact</h2>
+					<p>When experiencing problems with your rental property, you should start by contacting your landlord and trying to get the issue resolved with him/her. Should your landlord be unresponsive or you experience further problems, other steps include:</p>
+					
+					<ul>
+						<li><a class="outsideLink" href="https://agocapcomplaint.atg.state.vt.us/forms/consumer-assistance-program-complaint-form/">Filing a complaint</a> against your landlord with the <a class="outsideLink" href="http://www.uvm.edu/consumer/?Page=tenant.html">Consumer Assistance Program</a></li>
+						<li>Contacting your local Town Health Officer about a health code violation through the town offices or the <a class="outsideLink" href="http://healthvermont.gov/local/tho/tho_list.aspx">Vermont Department of Health</a> to conduct an inspection of the rental property</li>
+						<li>Filing a complaint about a fire and safety code violation with the <a class="outsideLink" href="http://firesafety.vermont.gov/">Department of Public Safety</a></li>
+						<li>For subsidized rental housing issues, contacting the rental housing manager. <a class="outsideLink" href="http://www.housingdata.org/find-rental-housing">A directory of all subsidized rental housing</a> is available to search online for contact information. For Section 8 Housing Choice Voucher concerns, contact your <a class="outsideLink" href="https://www.vsha.org/vsha-programs/rental-assistance-program/">state or local housing authority</a>.</li>
+					</ul>
+					
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

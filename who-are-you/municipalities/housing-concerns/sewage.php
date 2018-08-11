@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="Sewage information for town health officers" />
+		<title>Sewage | Municipalities | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="sewage.php#content">Jump to content</a></li>
+					<li><a href="../../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../../municipalities">Municipalities</a></li>
+							<li><a href="../../landlords">Landlords</a></li>
+							<li><a href="../../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../../index.php">Who are you?</a> > <a href="../index.php">Municipalities</a> &gt; <a href="index.php">Issues and areas of housing concern</a> &gt; Sewage</p>
+				<div class="grid_10 prefix_1">
+
+					<h1>Sewage</h1>
+					
+					<h2>Role of the town health officer</h2>
+					<p>The town health officer's role pertaining to sewage disposal is to <strong><em>respond to complaints of failing systems</em></strong>.</p>
+					<p>Vermont law (<a class="outsideLink" href="http://www.leg.state.vt.us/statutes/fullsection.cfm?Title=18&amp;Chapter=011&amp;Section=00613">Title 18, Chapter 11, 18 V.S.A. &#167; 613</a>) specifically limits the power of a town health officer to take enforcement action to <strong><em>only those conditions where a failed septic system is creating a risk to public health or a public health hazard</em></strong>.</p>
+					<p>Examples of public health hazards include:</p>
+					<ul>
+						<li>Septic material from any building is surfacing on the ground or is draining into nearby surface water</li>
+						<li>Septic material is backing up into the sink, toilet, shower, or basement of a rental property</li>
+					</ul>
+					<p>Note: Surfacing grey water (wastes from sinks, showers or washing machines) can also be considered a public health hazard as it still can contain pathogenic microorganisms and needs the same treatment as other septic material.</p>
+					<p>A list of helpful hints and directions for town health officers to use in determining whether a septic system is failing can be found in the <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual09.pdf#page=41">Town Health Officer Manual</a>.</p>
+					
+					<h2>Procedure for septic system issue investigation</h2>
+					<p>Once a town health officer has determined that a septic system is failing and creating a public health risk or public health hazard, <em>the following steps should be taken immediately:</em></p>
+					<ol>
+						<li>Town health officers should inform the property owner of his/her findings and request <strong><em>immediate</em></strong> voluntary compliance from the owner to avoid failing again until the system has been permanently fixed. Voluntary compliance should include:
+							<ul>
+								<li>Having the septic system pumped within 24 hours and monitored.</li>
+								<li>Spreading lime and straw and erecting temporary fencing around the area of surfacing sewage. If the back- up is inside, cleaning the affected area thoroughly and disinfecting.</li>
+								<li>Snaking the pipeline from the house to the septic tank when necessary.</li>
+								<li>Contacting a professional engineer or certified site technician to assess and correct the septic problems as well as obtain any needed state/local permits.</li>
+							</ul>
+						</li>
+						<li>If it is apparent that the property owner will not voluntarily comply with the town health officer's requests, the town health officer should initiate appropriate enforcement action. If the town health officer determines that the septic material presents an imminent and substantial significant public health risk, the town health officer should issue an emergency health order at once to ensure that the problem is quickly rectified.<br /><br />The emergency health order should direct the owner to immediately address the situation and take the actions outlined under voluntary compliance above. See the section on issuing health orders or the <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual09.pdf">Town Health Officer Manual</a> for more information on health orders.</li>
+						<li>Where necessary, the town health officer should contact proper authorities:<br /><br />
+							<strong>Local jurisdiction</strong><br />
+							Town health officers should notify the town official responsible for enforcement of any septic ordinances (often this is the town sewage officer or the zoning officer) when a system in their community must be repaired to ensure that the correct procedures and proper permits are acquired by the property owner.
+							<br /><br /><strong>State jurisdiction</strong><br />
+							Although town health officers may have authority in an event involving a failing septic, the Department of Environmental Conservation can also have jurisdiction. Contact information: 103 South Main St., Waterbury, VT 05671-0405, (802) 241-3888.</li>
+					</ol>
+					
+					
+					<p><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual.pdf">Read more about sewage in the Vermont Town Health Officer Manual</a></p>
+					
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

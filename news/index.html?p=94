@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="A one-stop resource for information about Vermont's rental housing codes" />
+		<title>News | Vermont Rental Housing Codes</title>
+		<link rel="alternate" type="application/rss+xml" title="Vermont Rental Codes" href="index.php?feed=rss2">
+	</head>
+	<body id="blogBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+		
+			<div id="header">
+				<p id="logo"><a href="../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="index.html?p=94#content">Jump to content</a></li>
+					<li><a href="../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../who-are-you/municipalities">Municipalities</a></li>
+							<li><a href="../who-are-you/landlords">Landlords</a></li>
+							<li><a href="../who-are-you/tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../index.php">Home</a></li>
+					<li><a id="searchLink" href="../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<div class="grid_8 prefix_1">
+					<p id="breadcrumb">You are here: <a href="index.php">News</a> &gt; Final hearing on plumbing rules set for June 11, 2015</p>
+					<h1>News</h1>
+										
+					<div id="post-94" class="post-94 post type-post status-publish format-standard hentry category-uncategorized">
+						<div style="float:right;">
+							<a href="index.html?p=85" rel="prev"><img class="prevNext" src="../images/previous.gif" width="27" height="32" alt="previous post" title="previous post" /></a><a href="index.html?p=98" rel="next"> <img class="prevNext" src="../images/next.gif" width="27" height="32" alt="next post" title="next post" /></a>						</div>
+						<h2 style="margin-right:3em;" class="entry-title">Final hearing on plumbing rules set for June 11, 2015</h2>
+	
+						<div class="entry-meta">
+							<p class="slug">Posted May 28, 2015 <!--by admin--></p>						</div><!-- .entry-meta -->
+	
+						<div class="entry-content">
+							<p>A final hearing to review the <a href="http://www.firesafety.vermont.gov/sites/firesafety/files/pdf/Code_Standards/2015%20PLUMBING%20RULES%20ANNOTATED-05-11-15.doc">revised Vermont Plumbing Rules</a> with the Vermont Legislative Committee on Administrative Rules has been scheduled for June 11, 2015 at 10 am.</p>
+<p>The latest version of the rules is available on the VT Division of Fire Safety website at <a href="http://www.firesafety.vermont.gov">www.firesafety.vermont.gov</a></p>
+<p>The new rules are likely to take effect on August 1, 2015.</p>
+													</div><!-- .entry-content -->
+	
+		
+						<div class="entry-utility">
+							<p>Posted in <a href="index.html?cat=1" rel="category">Uncategorized</a></p>													</div><!-- .entry-utility -->
+					</div><!-- #post-## -->
+	
+	
+				
+				</div>
+				<div id="sidebar" class="grid_3">
+					
+					<ul>
+						<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="index.php">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li><li id="archives-2" class="widget-container widget_archive"><h3 class="widget-title">Archives</h3>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			<option value="">Select Month</option>
+
+				<option value='http://www.rentalcodes.org/news/?m=201707'> July 2017 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201706'> June 2017 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201603'> March 2016 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201505'> May 2015 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201504'> April 2015 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201503'> March 2015 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201501'> January 2015 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201401'> January 2014 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201309'> September 2013 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201308'> August 2013 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201304'> April 2013 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201209'> September 2012 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201108'> August 2011 </option>
+	<option value='http://www.rentalcodes.org/news/?m=201012'> December 2010 </option>
+		</select>
+</li><li id="categories-2" class="widget-container widget_categories"><h3 class="widget-title">Categories</h3><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="1">Uncategorized</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://www.rentalcodes.org/news/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</li>						<li><a href="index.html?p=85" rel="prev"><h4>Previous post</h4>Registration for free fair housing accessibility training opens</a></li>
+						<li><a href="index.html?p=98" rel="next"><h4>Next post</h4>Seeking input on changes for Vermont&#8217;s Fire and Building Code</a></li>
+						
+						<li><img src="../images/wordpress.gif" width="140" height="32" alt="powered by wordpress" /></li>
+					</ul>
+					
+					
+				</div>
+			</div>	
+			
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>		</div>	<!--  END .container_12 -->
+	</body>
+</html>

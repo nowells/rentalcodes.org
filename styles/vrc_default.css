@@ -1,0 +1,693 @@
+/*	AUTHORSHIP
+---------------------------------------------------------------------------------
+	Title:      Vermont Rental Codes master styles
+	Author:     Craig Bailey <cbailey@vhfa.org>
+	Copyright:  2010 Vermont Housing Finance Agency (VHFA). All rights reserved.
+--------------------------------------------------------------------------------- */
+
+@import url("vrc_reset.css");
+@import url("vrc_960.css");
+
+body	{
+	background:url(../images/grid_bg.gif) fixed;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:62.5%;
+	color:#000;
+}
+#gridded	{
+	background:url(../images/grid_bg/12_col.gif);
+	width:960px;
+	height:800px;
+	position:fixed;
+	z-index: 1;
+	opacity:0.6;
+}
+.container_12	{
+	background:rgba(255, 255, 255, 0.7);
+	margin-bottom:3em;
+}
+#content	{
+	padding:3em 0;
+	position:relative;
+}
+p, li, address, label, dt, dd, td, th	{
+	font-size:1.3em;
+	line-height:1.3em;
+	font-style:normal;
+	margin-bottom:1em;
+}
+dt	{
+	margin-bottom:0;
+	font-weight:bold;
+	color:#1c6daf;
+}
+ul, ol	{
+	margin-bottom:1.5em;
+}
+ul	{
+	list-style-type: square;
+	padding-left:6em;
+}
+ol	{
+	list-style:decimal;
+	padding:0 0 2em 2em;
+}
+li	{
+	margin-bottom:0;
+}
+li address	{
+	font-size:100%;
+}
+#content li ul, #content li ol	{
+	padding:0 0 0 3em;
+	font-size:75%;
+}
+h1, h2, h3, h4, h5, h6	{
+	color:#1c6daf;
+	margin-bottom:.75em;
+	line-height:120%;
+}
+h1	{
+	font-size:3em;
+	margin-top:.5em;
+}
+h2	{
+	font-size:2.25em;
+	margin-top:1.5em;
+	margin-left:-6px;
+	background:#e5e5e5;
+	padding:3px 6px;
+}
+h3	{
+	font-size:1.75em;
+	margin-top:1.5em;
+}
+h4	{
+	font-size:1.5em;
+	margin:1.5em 0 0 0;
+	color:#797979;
+}
+h5, h6	{
+	font-size:1.3em;
+	margin:1.5em 0 0 0;
+	font-style: italic;
+	color:#797979;
+}
+#legalBody h4, #legalBody h5, #legalBody h6	{
+	color:#1c6daf;
+}
+.slug	{
+	font-weight:bold;
+	font-style:italic;
+	color:#1c6daf;
+	margin-top:-1em;
+	font-size:140%;
+}
+.hidden	{
+	position:absolute;
+	text-indent:-9999em;
+	overflow:hidden;
+}
+hr	{
+	border:1px solid #67aae1;
+	margin-top:3em;
+}
+p strong, li strong	{
+	color:#323133;
+}
+.sidebar	{
+	float:right;
+	background:#d8e6ef;
+	font-size:90%;
+	padding:0 20px 10px 20px;
+	margin:0 -80px 20px 20px;
+	width:260px;
+	border-left:20px solid #fff;
+}
+.sidebar ul	{
+	padding-left:2em;
+}
+.sidebar p, .sidebar li, .sidebar dt, .sidebar dd	{
+	line-height:145%;
+}
+.sidebar h2	{
+	background:none;
+	padding:0;
+}
+#blogBody h2	{
+	background:none;
+	padding:0;
+}
+.sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5	{
+	color:#1c6daf;
+}
+#breadcrumb	{
+	position:absolute;
+	left:90px;
+	top:18px;
+	color:#333;
+	font-size:110%;
+}
+
+/*	TABLES
+--------------------------------------------------------------------------------- */
+table	{
+	margin:2em 0;
+	background:#e8eaea;
+	font-size:90%;
+}
+table ul	{
+	padding-left:1.2em;
+}
+table li	{
+	font-size:100%;
+	line-height:140%;
+}
+td, th	{
+	width:20%;
+	text-align:left;
+	padding:.75em;
+	border:1px solid #1c6daf;
+	line-height:140%;
+}
+th	{
+	background:#1c6daf;
+	color:#fff;
+	border:1px solid #fff;
+}
+
+/*	HEADER
+--------------------------------------------------------------------------------- */
+#header	{
+	background:#1c6daf url(../images/header_bg.gif) no-repeat;
+	height:195px;
+	position:relative;
+	z-index:1;
+}
+#logo {
+	width:221px;
+	height:51px;
+	position:relative;
+	top:69px;
+	left:168px;
+	overflow:hidden;
+}
+#logo span {
+	background:url(../images/logo.gif) no-repeat;
+	position:absolute;
+	width:222px;
+	height:62px;
+}
+#header em {
+	width:351px;
+	height:35px;
+	position:relative;
+	top:22px;
+	left:602px;
+	overflow:hidden;
+	display:block;
+}
+#header em span {
+	background:url(../images/slogan.gif) no-repeat;
+	position:absolute;
+	width:351px;
+	height:35px;
+}
+
+/*	FOOTER
+--------------------------------------------------------------------------------- */
+#footer	{
+	text-align:center;
+	font-size:90%;
+	padding:4em 0 8.5em 0;
+	background:url(../images/registration_mark.gif) center 16em no-repeat;
+	clear:both;
+}
+#footer ul	{
+	margin:2em 0;
+	padding:0;
+}
+#footer ul li	{
+	display:inline;
+	padding:0 .5em;
+}
+
+
+/*	NAVIGATION
+--------------------------------------------------------------------------------- */
+#secondaryMenu	{
+	position:absolute;
+	top:0;
+	right:0;
+	background:rgba(8, 10, 10, 0.5);
+	color:#fff;
+	padding:0;
+}
+#secondaryMenu li	{
+	display:inline;
+	text-transform:uppercase;
+	font-size:90%;
+}
+#secondaryMenu a:link, #secondaryMenu a:visited	{
+	color:#fff;
+	text-decoration: none;
+	padding:6px 17px;
+	display:block;
+	float:left;
+	background:url(../images/menu_pipe.gif) 0 5px no-repeat;
+}
+#secondaryMenu a:hover	{
+	background:#d1d6d6;
+	color:#191e1e;
+	text-decoration: none;
+	padding:6px 17px;
+	display:block;
+	float:left;
+}
+#primaryMenu	{
+	position:absolute;
+	top:149px;
+	left:0px;
+	color:#fff;
+	padding:7px 0;
+	font-weight:bold;
+}
+#primaryMenu li	{
+	display:inline;
+}
+#primaryMenu li li	{
+	font-size:1.3em;
+	line-height:1.3em;
+}
+#primaryMenu a:link, #primaryMenu a:visited	{
+	text-decoration: none;
+	color:#fff;
+	background:url(../images/menu_pipe_lg.gif) no-repeat;
+}
+#primaryMenu a:hover	{
+	text-decoration: none;
+	color:#fff;
+	background:#4d99ce;
+}
+#primaryMenu #faqLink, #primaryMenu #areasOfInterestLink, #primaryMenu #blogLink	{
+	width:160px;
+	text-align:center;
+	display:block;
+	float:left;
+	padding:11px 0;
+}
+#primaryMenu #resourcesLink, #primaryMenu #aboutThisSiteLink	{
+	width:240px;
+	text-align:center;
+	display:block;
+	float:left;
+	padding:11px 0;
+}
+#primaryMenu li:hover ul a {	/* Format all submenus */
+	display:block;
+	padding:7px 0 7px 6px;
+	width:154px;
+	border-top:1px solid #fff;
+	font-size:75%;
+	background-image:none;
+}
+#primaryMenu li ul {	/* Hide submenus by default */
+	position: absolute;
+	left:-999em;
+	font-weight:normal;
+	background:#1c6daf;
+	top:46px;
+	padding:0;
+}
+#primaryMenu li:hover ul#faqSubLink {	/* Reveal areasOfInterestSubLink */
+	left:0px;
+	width:160px;
+}
+#primaryMenu li:hover ul#areasOfInterestSubLink {	/* Reveal areasOfInterestSubLink */
+	left:160px;
+	width:160px;
+}
+#primaryMenu li:hover ul#areasOfInterestSubLink a {	/* Format areasOfInterestSubLink */
+	width:154px;
+}
+#primaryMenu li:hover ul#resourcesSubLink {	/* Reveal resourcesSubLink */
+	left:320px;
+	width:240px;
+}
+#primaryMenu li:hover ul#resourcesSubLink a {	/* Format resourcesSubLink */
+	width:234px;
+}
+
+
+/*	STICKY MENUS
+--------------------------------------------------------------------------------- */
+#secondaryMenu a.first, #primaryMenu a.first	{
+	background-image:none;
+}
+#homeBody #secondaryMenu li a:hover#homeLink	{
+	background:#181e1e;
+	color:#fff;
+	cursor:default;
+}
+#mailingListBody #secondaryMenu li a#mailingListLink, #mailingListBody #secondaryMenu li a#mailingListLink,
+#contactBody #secondaryMenu li a#contactLink, #searchBody #secondaryMenu li a#searchLink, #aboutUsBody #secondaryMenu li a#aboutUsLink	{
+	background:#d1d6d6;
+	color:#191e1e;
+	cursor:default;
+}
+#faqBody #faqLink, #areasOfInterestBody #areasOfInterestLink, #resourcesBody #resourcesLink, #aboutThisSiteBody #aboutThisSiteLink,
+#blogBody #blogLink, #areasBody #areasOfInterestLink, #resourcesBody #resourcesLink	{
+	color:#fff;
+	background:#4d99ce;
+	cursor:default;
+}
+#legalBody #legalLink, #accessibilityBody #accessibilityLink	{
+	text-decoration: none;
+	color:#000;
+	cursor:text;
+}
+
+
+/*	LINKS
+--------------------------------------------------------------------------------- */
+a:link, .fauxLink	{
+	color:#1c6daf;
+	text-decoration:underline;
+	cursor:pointer;
+}
+a:visited, .fauxLink:visited	{
+	color:#3a4f5c;
+	text-decoration:underline;
+	cursor:pointer;
+}
+a:hover, .fauxLink:hover	{
+	color:#008dff;
+	text-decoration:underline;
+	cursor:pointer;
+}
+a:active, .fauxLink:active	{
+	color:#ffd815;
+	cursor:pointer;
+}
+a:visited.alwaysHot	{
+	color:#1c6daf !important;
+}
+a:hover.alwaysHot	{
+	color:#008dff !important;
+}
+.more	{
+	padding-left:2.65em;
+	background:url(../images/more.gif) no-repeat;
+	height:22px;
+	display:block;
+	margin-left:2em;
+}
+.outsideLink	{
+	padding-right:15px;
+	background:url("../images/external_link.gif") no-repeat right;
+}
+
+/*	ERRORS
+--------------------------------------------------------------------------------- */
+#errorBox	{
+	background:#fffde4;
+	padding:1em 2em;
+	margin-bottom:2em;
+	-moz-border-radius:12px;
+	border-radius:12px;
+	border:1px dashed #ae1500;
+}
+#errorBox h2	{
+	color:#ae1500;
+}
+#errorBox em	{
+	font-style:normal;
+	font-weight:bold;
+	color:#ae1500;
+}
+#errorBox ul	{
+	margin-bottom:1em;
+}
+#errorBox li	{
+	margin:0;
+}
+
+/*	FRONT PAGE
+--------------------------------------------------------------------------------- */
+#areasOfInterest, #whoAreYou {
+	width:460px;
+	height:63px;
+	overflow:hidden;
+	margin-top:0;
+}
+#areasOfInterest span {
+	background:url(../images/areas_of_interest.gif) no-repeat;
+	position:absolute;
+	width:460px;
+	height:63px;
+}
+#whoAreYou span	{
+	background:url(../images/who_are_you.gif) no-repeat;
+	position:absolute;
+	width:460px;
+	height:63px;
+}
+#homeBody .grid_6	{
+	height:41em;
+	background:#d3d5d5;
+}
+#homeBody .grid_6 p	{
+	padding:0 20px 20px 20px;
+	margin:0;
+}
+#homeBody .grid_6 ul	{
+	padding:0 20px 0 34px;
+}
+.whoButton	{
+	width:297px;
+	text-align:center;
+	margin:0 0 9px 80px;
+	font-size:130%;
+	line-height:120%;
+}
+.whoButton strong	{
+	text-transform: uppercase;
+}
+.whoButton a	{
+	display:block;
+	width:100%;
+	padding:21px 0;
+	background:#9b9e9e;
+	border-top:2px solid #BEBFBF;
+	border-left:2px solid #BEBFBF;
+	border-right:2px solid #606060;
+	border-bottom:2px solid #606060;
+	color:#000;
+	text-decoration: none;
+}
+.whoButton a:hover	{
+	background:#4D99CE;
+	border-top:2px solid #3C7D99;
+	border-left:2px solid #3C7D99;
+	border-right:2px solid #5DBEF4;
+	border-bottom:2px solid #5DBEF4;
+	color:#fff;
+}
+.areasButton	{
+	width:197px;
+	text-align:center;
+	margin:0 0 6px 20px;
+	font-size:120%;
+	line-height:106%;
+}
+#detailsHole, #sanitationDetails, #buildingDetails, #structuralDetails, #leadDetails, #lifeDetails, #mobileHomeDetails, #otherConcernsDetails	{
+	width:157px;
+	height:228px;
+	right:20px;
+	top:0;
+	background:#E8EAEA url(../images/keyhole_bg.gif) 50% 50% no-repeat;
+	float:right;
+	margin-right:20px;
+	position:absolute;
+}
+#sanitationDetails, #buildingDetails, #structuralDetails, #leadDetails, #lifeDetails, #mobileHomeDetails, #otherConcernsDetails	{
+	background:#1c6daf;
+	padding-top:10px !important;
+	height:218px;
+	color:#fff;
+}
+#sanitationDetails strong, #buildingDetails strong, #structuralDetails strong, #leadDetails strong, #lifeDetails strong, #mobileHomeDetails strong, #otherConcernsDetails strong	{
+	color:#fff;
+}
+#sanitationDetails img	{
+	position:absolute;
+	top:3px;
+	left:-14px;
+}
+#buildingDetails img	{
+	position:absolute;
+	top:38px;
+	left:-14px;
+}
+#structuralDetails img	{
+	position:absolute;
+	top:72px;
+	left:-14px;
+}
+#leadDetails img	{
+	position:absolute;
+	top:106px;
+	left:-14px;
+}
+#lifeDetails img	{
+	position:absolute;
+	top:142px;
+	left:-14px;
+}
+#mobileHomeDetails img	{
+	position:absolute;
+	top:176px;
+	left:-14px;
+}
+#otherConcernsDetails img	{
+	position:absolute;
+	top:218px;
+	left:-14px;
+}
+.areasButton a	{
+	display:block;
+	width:100%;
+	padding:6px 0;
+	background:#9b9e9e;
+	border-top:2px solid #BEBFBF;
+	border-left:2px solid #BEBFBF;
+	border-right:2px solid #606060;
+	border-bottom:2px solid #606060;
+	color:#000;
+	text-decoration: none;
+}
+.areasButton a:hover	{
+	background:#4D99CE;
+	border-top:2px solid #3C7D99;
+	border-left:2px solid #3C7D99;
+	border-right:2px solid #5DBEF4;
+	border-bottom:2px solid #5DBEF4;
+	color:#fff;
+}
+
+/*	BLOG
+--------------------------------------------------------------------------------- */
+#blogBody h2	{
+	margin-top:0;
+}
+#blogBody .slug	{
+	margin-top:-.8em;
+	font-style:italic;
+	color:#323133;
+	font-weight:normal;
+	font-size:120%;
+}
+#blogBody .postFooter	{
+	margin-bottom:0;
+	font-size:120%;
+}
+#blogBody hr	{
+	margin-top:3em;
+	color:#bec3c3;
+	border:1;
+}
+#blogBody .post	{
+	background:#ebf0f3;
+	padding:20px;
+	margin:0 0 20px -20px;
+	-moz-border-radius:12px;
+	border-radius:12px;
+}
+#blogBody #sidebar	{
+	margin-top:60px;
+}
+#blogBody #sidebar select	{
+	width:100%;
+}
+#blogBody #sidebar #s	{
+	width:135px;
+	margin-bottom:6px;
+}
+#blogBody #sidebar ul	{
+	margin:0;
+	padding:0;
+}
+#blogBody #sidebar li	{
+	list-style-type: none;
+}
+#blogBody #sidebar h3	{
+	font-size:110%;
+	margin:1.5em 0 4px 0;
+}
+#blogBody #sidebar h4	{
+	font-size:100%;
+	margin:1.5em 0 0px 0;
+}
+#blogBody #sidebar img	{
+	margin-top:1em;
+}
+#blogBody .prevNext	{
+	margin-left:.5em;
+}
+
+/*	MAILING LIST
+--------------------------------------------------------------------------------- */
+#mailingListBody #submit	{
+	display:block;
+	margin-top:12px;
+}
+#mailingListBody label	{
+	display:block;
+	margin-bottom:0;
+	font-weight:bold;
+	color:#1c6daf;
+}
+#mailingListBody #email	{
+	width:214px;
+	margin-bottom:12px;
+}
+
+/*	ADMIN
+--------------------------------------------------------------------------------- */
+#logIn .inputRow	{
+	clear:both;
+}
+#logIn label	{
+	float:left;
+	width:70px;
+	text-align:right;
+	padding-right:10px;
+}
+#logIn input	{
+	float:left;
+	width:141px;
+}
+#logIn #forgot, #logIn #loginButton, #logIn #resetPassword 	{
+	clear:both;
+	display:block;
+	font-size:80%;
+	padding-left:80px;
+}
+#logIn #badLogin	{
+	clear:both;
+	display:block;
+	margin-left:80px;
+	color:#ff0000;
+	font-weight:bold;	
+}
+#adm1nBody #sidebar	{
+	background:#fff;
+}
+#adm1nBody #sidebar h3	{
+	font-size:130%;
+	margin-bottom:0;
+	padding:1em 1em 0 1em;
+}
+#adm1nBody #sidebar p	{
+	padding:0 1em;
+}

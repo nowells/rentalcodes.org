@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="What tenants need to know about leases and other rental agreements" />
+		<title>Leases and other rental agreements | Tenants | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="leases.php#content">Jump to content</a></li>
+					<li><a href="../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../municipalities">Municipalities</a></li>
+							<li><a href="../landlords">Landlords</a></li>
+							<li><a href="../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../index.php">Who are you?</a> > <a href="index.php">Tenants</a> &gt; Leases and other rental agreements</p>
+				<div class="grid_10 prefix_1">
+	
+					<h1>Leases and other rental agreements</h1>
+					
+					<p>A rental agreement represents the terms agreed upon between a landlord and tenant for the rules and responsibilities of each party during a tenancy. Though rental agreements allow for a landlord and tenant to set the particular terms of the tenancy, rental agreements may not take away any rights or responsibilities mandated by law (<a class="outsideLink" href="http://legislature.vermont.gov/statutes/section/09/137/04454">Title 9, Chapter 137, 9 V.S.A. &#167; 4454</a>).</p>
+					<p>A written rental agreement between landlord and tenant is not required by law to rent property in Vermont. Oral agreements between landlords and tenants on the terms of a rental are as binding as written agreements; however, written agreements provide documentation of the agreement terms that can protect both parties from issues that might arise in the future.</p>		
+				
+					<h2>Leases</h2>
+					<ul>
+						<li>Leases are written agreements that are signed by both tenant and landlord</li>
+						<li>After signing, both parties should keep a copy of the signed lease in their records to refer back to about any questions or issues that come up regarding the terms of the tenancy</li>
+						<li>Leases may be:
+							<ul>
+								<li>For a set period of time (a term lease); or</li>
+								<li>Open-ended, such as a month-to-month or week-to-week lease</li>
+							</ul>
+						</li>
+						<li>The amount of notice a landlord must give a tenant before ending a tenancy varies depending on what kind of lease there is and the reason for termination</li>
+						<li>Tenants with open ended leases must give landlords notice of one full rental payment period before they can terminate a lease</li>
+					</ul>					
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

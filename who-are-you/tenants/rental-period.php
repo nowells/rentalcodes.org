@@ -1,0 +1,321 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="What tenants need to know about rental periods" />
+		<title>Rights and responsibilities | Tenants | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="rental-period.php#content">Jump to content</a></li>
+					<li><a href="../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../municipalities">Municipalities</a></li>
+							<li><a href="../landlords">Landlords</a></li>
+							<li><a href="../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../index.php">Who are you?</a> > <a href="index.php">Tenants</a> &gt; Rights and responsibilities</p>
+
+				<div class="grid_10 prefix_1">
+					
+					<h1>Rights and responsibilities</h1>
+					<p class="slug">Rights and responsibilities of tenants and landlords from beginning to end of tenancy</p>
+					<p>In addition to the rights and responsibilities that are assigned to each party in the rental agreement, there are a number of rights and responsibilities imposed on both landlord and tenant by law as to how each must act during the rental period. </p>
+				
+					<h2>Tenant responsibilities</h2>
+					<p>Tenants must (<a class="outsideLink" href="https://legislature.vermont.gov/statutes/section/09/137/04456">Title 9, Chapter 137, 9 V.S.A. &#167; 4456</a>):</p>
+					<ul>
+						<li>Pay rent on time</li>
+						<li>Keep their dwelling unit safe and clean so as not to create or contribute to health or safety code violations within the premises</li>
+						<li>Not disturb the peace and quiet enjoyment of other tenants within the same property</li>
+						<li>Take care not to damage the property, or allow guests to damage the property</li>
+						<li>Give proper notice to the landlord before ending the rental agreement</li>
+					</ul>
+				
+					<h2>Landlord responsibilities</h2>
+					<p>Landlords must (<a class="outsideLink" href="http://legislature.vermont.gov/statutes/section/09/137/04457">Title 9, Chapter 137, 9 V.S.A. &#167; 4457</a>):</p>
+					<ul>
+						<li>Ensure the premises are maintained in a safe, clean condition and continue to meet health and safety code standards throughout the tenancy</li>
+						<li>Allow tenants the full peaceful enjoyment of the rented property and only access the premises with permission or for an approved purpose</li>
+						<li>Not use a lease which takes away any tenant rights protected by law</li>
+						<li>Give proper notice to tenants of termination of a rental agreement and adhere to proper eviction procedure</li>
+					</ul>
+	
+					<h2>Mobile home lots</h2>
+					<p>If you are renting a mobile home lot, your landlord is responsible for:</p>
+					
+					<ul>
+						<li>Installation and maintenance of the electrical service to the main electrical panel in the mobile home</li>
+						<li>Maintenance of water lines to a point at which the lines surface under the mobile home</li>
+						<li>Maintenance of the sewage disposal system to the point where it surfaces from the ground to service the mobile home</li>
+					</ul>
+								
+					<h2>Basic rights of landlords and tenants during tenancy</h2>
+					<table>
+						<thead>
+							<tr>
+								<th>&nbsp;</th>
+								<th scope="col">Landlord's rights</th>
+								<th scope="col">Tenant's rights</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Rent</th>
+								<td>Receive agreed upon rent payment on time every rental period</td>
+								<td>Receive 14 days written notice of any late rent payment in which to pay rent due</td>
+							</tr>
+							<tr>
+								<th scope="row">Security deposit</th>
+								<td>Collect a security deposit from tenant before move in<br /><br />
+								Deduct from the security deposit for property damage and outstanding expenses</td>
+								<td>Receive security deposit back from landlord within 14 days of moving out<br /><br />
+								Receive an itemized statement of any deductions with deposit return</td>
+							</tr>
+							<tr>
+								<th scope="row">Maintenance repairs</th>
+								<td>Conduct repairs to maintain property up to code standards<br /><br />
+								Be alerted to necessary repairs or code violations by tenant<br /><br />
+								Have premises within rental unit maintained to safe and clean condition by tenant to avoid creation of code violations or health hazards</td>
+								<td>Have necessary repairs conducted by landlord within a reasonable amount of time<br /><br />
+								If landlord fails to make minor repairs within 30 days, have repairs done and deduct expense from rent (up to 1/2 months rent)</td>
+							</tr>
+							<tr>
+								<th scope="row">Access to premises</th>
+								<td>Enter rented premises with tenants consent (which cannot be unreasonably withheld) or proper notice to conduct repairs or property viewings</td>
+								<td>Receive 48 hours notice before landlord enters premises without permission, and only for an approved purpose (e.g. conduct repair work)</td>
+							</tr>
+							<tr>
+								<th scope="row">Rent increase</th>
+								<td>Increase rent at the beginning of a new lease term</td>
+								<td>Receive at least 60 days written warning of a rent increase for the beginning of a new lease term</td>
+							</tr>
+							<tr>
+								<th scope="row">EMPs</th>
+								<td>&#8212;</td>
+								<td>If your rental premises were built before 1978, have EMPs conducted on the property annually to minimize risks of lead poisoning (Read more: <a href="lead-paint.php">Lead paint</a>)</td>
+							</tr>
+						</tbody>
+					</table>
+					
+					<h2>Security deposits</h2>
+					<ul>
+						<li>Your landlord may collect a <a class="outsideLink" href="http://legislature.vermont.gov/statutes/section/09/137/04461">security deposit</a> before you move in.</li>
+						<li>A security deposit is money you pay the landlord in advance that may be used to pay for any damage or outstanding expenses at the end of your tenancy.</li>
+						<li>If when you move out there is any damage or remaining owed expenses (such as late rent), your landlord may deduct these expenses from the security deposit. However, your landlord must return any or all remaining security deposit money to you within 14 days of the time he or she knows you have vacated the property.</li>
+						<li>Any deductions should be listed in an itemized statement and provided to you with the security deposit return.</li>
+						<li>Your landlord can only deduct for property damage that was:
+							<ul>
+								<li>Not part of normal wear and tear</li>
+								<li>Caused by you or your guests</li>
+								<li>Within your control as a tenant</li>
+							</ul>
+						</li>
+						<li>Your landlord can deduct for remaining expenses such as:
+							<ul>
+								<li>Outstanding rent</li>
+								<li>Outstanding utility payments or other agreed upon expenses owed to the landlord</li>
+								<li>Expenses required to move or store any property you abandon that your landlord is required by law to keep for up to 60 days</li> 
+							</ul>
+						</li>
+						<li>If your landlord fails to return any portion of the security deposit that is not properly deducted within the 14 day period, then your landlord must return the entire deposit to you. If a court finds your landlord intentionally failed to return the deposit within 14 days, your landlord may be liable for double the amount owed to you.</li>
+						<li>In general, landlords cannot deduct from the security deposit for any of the following reasons:
+							<ul>
+								<li>Routine maintenance</li>
+								<li>Painting</li>
+								<li>Re-advertising the apartment</li>
+								<li>Renovation of a dwelling unit</li>
+							</ul>
+						</li>
+					</ul>
+					<p>Note: Some municipalities have additional city ordinances regulating security deposits</p>
+				
+					<h2>Maintenance/repairs</h2>
+					<p>As a tenant, you are required to maintain the cleanliness of your rental unit so as not to create code violations or cause damage to the property. Your landlord is required to complete necessary repairs within a reasonable amount of time.</p>
+					<p>If your landlord fails to complete minor repairs within 30 days from the time you notified him or her of the issue, you can repair it yourself and deduct the amount of the repair from you rent <strong><em>if</em></strong>:</p>
+					<ul>
+						<li>Repair costs are less than &#189; of your monthly rent</li>
+						<li>The issue was not caused by your action, inaction, or negligence </li>
+					</ul>
+
+					<p>Your landlord is obligated to perform repairs throughout your tenancy to keep the rental unit up to the standards required by the Vermont Departments of Health and Safety.</p>
+					<p>If code violations that pose a health and safety issue are reported to your landlord and he or she fails to make the appropriate repairs within a reasonable time, you may have other forms of recourse. For information on what's appropriate, contact <a class="outsideLink" href="http://www.vtlegalaid.org/">Vermont Legal Aid</a> or <a class="outsideLink" href="http://www.rentalcodes.org/who-are-you/tenants/www.vttenants.org">Vermont Tenants</a>. There are
+					<a class="outsideLink" href="http://legislature.vermont.gov/statutes/section/09/137/04459">specific procedures to follow</a> and those contacts as well as state statute explain those.</p> 
+					<p>If your landlord fails to complete minor repairs within 30 days from the time you notified him or her of the issue, there may be steps you can take, but it's important to follow the procedures. For more information, contact <a class="outsideLink" href="http://www.vtlegalaid.org/">Vermont Legal Aid</a>, <a class="outsideLink" href="http://www.rentalcodes.org/who-are-you/tenants/www.vttenants.org">Vermont Tenants</a> or
+					<a class="outsideLink" href="http://legislature.vermont.gov/statutes/section/09/137/04459">read the state statute</a>.</p>
+
+					<p>There are <a href="../landlords/rights-responsibilities.php#enteringtenantoccupiedpremises">certain procedures that must be followed when entering units to make repairs</a>.</p>
+					
+					<p>Read more: <a class="outsideLink" href="http://legislature.vermont.gov/statutes/section/09/137/04458">Title 9, Chapter 137, 9 V.S.A. &#167; 4458</a></p>
+					
+					<h2>Landlord access to rental premises</h2>
+					<p>Tenants have the right to private enjoyment of their rental premises. However, there are times your landlord may need to enter the property to conduct repair work or show the unit.</p>
+					<p>During tenancy, your landlord generally needs your permission before entering your rental unit. Tenants are required by law not to unreasonably withhold permission.</p>
+					<p>In order to enter the rental property without your permission, your landlord must:</p>
+					
+					<ul>
+						<li>Give at least 48 hours notice </li>
+						<li>Enter between 9:00 am and 9:00 pm</li>
+						<li>Be entering for one of the following purposes:
+							<ul>
+								<li>To inspect the premises when necessary</li>
+								<li>To conduct necessary or agreed upon repairs, alterations or improvements</li>
+								<li>To supply agreed upon services</li>
+								<li>To show the apartment to prospective tenants, buyers, or workers</li>
+							</ul>
+						</li>
+					</ul>
+					<p>Your landlord may only enter rented property without consent or notice if he or she has a "reasonable belief" that there is imminent danger to persons or property.</p>			
+					
+					<h2>Rent increase</h2>
+					<p>It is legal for your landlord to increase your rent, but only at designated times and with proper notice. Before increasing the rent, your landlord must:</p>
+					<ul>
+						<li>Give at least 60 days written notice before the first day of increased rent</li>
+						<li>Only raise rent at the beginning of a new lease term. Your landlord cannot raise the rent during a lease term unless the lease specifically allows for it</li>
+					</ul>
+					<p>Note: <a class="outsideLink" href="https://www.codepublishing.com/VT/Burlington/">Burlington city ordinances</a> require landlords to give 90 days written notice before a rent increase can take effect </p>
+					
+					<h2>Ending a tenancy</h2>
+					<h3>Notice requirements</h3>
+					<p>In order to properly end a tenancy, the party who wishes to terminate the rental agreement must give the other party proper notice. The amount of notice varies depending on who is ending the lease (tenant or landlord), the reason for ending, and the type of rental agreement between the parties.</p>
+					
+					<h4>Termination of tenancy by landlord</h4>
+					<table>
+						<thead>
+							<tr>
+								<th scope="col">Reason for termination</th>
+								<th scope="col">Non-payment of rent</th>
+								<th scope="col">Breach of rental contract</th>
+								<th scope="col">Sale of rental property</th>
+								<th scope="col">No cause</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Amount of notice landlord must give tenant:</th>
+								<td><strong>14 days</strong> written notice, in which tenant fails to pay past due rent</td>
+								<td><strong>30 days</strong> written notice, specifically stating cause of breach</td>
+								<td><strong>30 days</strong> written notice</td>
+								<td><strong>60 days</strong> written notice for month to month tenancies; <strong>21 days</strong> written notice for week to week tenancies</td>
+							</tr>
+							<tr>
+								<th scope="row">Exceptions:</th>
+								<td>&#8212;</td>
+								<td>If the breach is based on illegal or violent activity, notice can be shortened to 14 days</td>
+								<td>If the tenant has a written lease for a set term, the lease transfers to the new owner for the duration of the tenant's term</td>
+								<td>Tenants who have resided in property for more than 2 years must have 90 days written notice; written leases for a set term cannot be terminated unless there is a specific provision for it in the lease</td>
+							</tr>
+						</tbody>
+					</table>
+					<p>Read more: <a class="outsideLink" href="https://legislature.vermont.gov/statutes/section/09/137/04467">Termination of tenancy by landlord</a></p>
+					<p>If a tenant remains in the rental property after the proper notice period has ended, a landlord can begin the official eviction process. For steps and details on the eviction procedure and additional details on reasons for termination, see the "Eviction" section under "Problems with Landlords."</p>
+					
+					<h4>Termination of tenancy by tenant</h4>
+					<table>
+						<thead>
+							<tr>
+								<th scope="col">Type of rental agreement:</th>
+								<th scope="col">Written agreement for set period of time (term lease)</th>
+								<th scope="col">Written or oral agreement with no specified length of time (e.g. month to month)</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Amount of notice tenant must give to landlord:</th>
+								<td><strong>One full rental payment period</strong>
+									<ul>
+										<li>Unless the lease states that the tenancy terminates at the end of the term; or</li>
+										<li>The lease specifies a different notice period</li>
+									</ul>
+								</td>
+								<td><strong>One full rental payment period</strong>
+									<ul>
+										<li>If month-to-month: 30 days</li>
+										<li>If week-to-week: 7 days</li>
+									</ul>
+								</td>
+							</tr>
+							<tr>
+								<th scope="row">If no adequate notice is given:</th>
+								<td>The tenancy becomes month to month after the lease expires</td>
+								<td>The tenancy continues until proper notice is given</td>
+							</tr>
+						</tbody>
+					</table>
+					<p>Read more: <a class="outsideLink" href="http://legislature.vermont.gov/statutes/section/09/137/04456">Termination of tenancy by tenant</a></p>
+					<p>Note: <a class="outsideLink" href="https://www.codepublishing.com/VT/Burlington/">Burlington city ordinances</a> require more notice be given to a landlord before a lease can be terminated</p>
+					
+					<h3>Breaking a lease</h3>
+					<p>If you move out before the end of the term agreed upon by you and your landlord in your rental agreement, you can be held responsible for the amount of rent remaining in your rental term.</p>
+					<p>However, if you do break your lease, your landlord must make reasonable efforts to re-rent the property as quickly as possible. Once the property is re-rented, your responsibility for rent ends.</p>
+				
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="What town health officers who receive information about possible health hazards or rental housing code violations should do" />
+		<title>General process and procedure for town health officers and rental housing | Municipalities | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="process-procedure.php#content">Jump to content</a></li>
+					<li><a href="../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../municipalities">Municipalities</a></li>
+							<li><a href="../landlords">Landlords</a></li>
+							<li><a href="../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../index.php">Who are you?</a> > <a href="index.php">Municipalities</a> &gt; General process and procedure for town health officers and rental housing</p>
+				<div class="grid_10 prefix_1">
+
+					<h1>General process and procedure for town health officers and rental housing</h1>
+					
+					<h2>Information/complaint</h2>
+					<p>Almost every action a town health officer will take with regard to rental housing begins with a complaint. Once a town health officer has received information about a possible health hazard or rental housing code violation, he or she should conduct an inspection into the conditions of the complaint.</p>
+					<p>Complaints should be documented on the <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/tho_complaint-inspection.pdf">Town Health Officer Complaint and Inspection Form</a>.</p>
+					
+					<h2>Inspection</h2>
+					<ul>
+						<li>Once a complaint has been received and recorded, the town health officer will conduct an investigation into the issue.</li>
+						<li>Property inspections must take place at a reasonable time and in a reasonable manner.</li>
+						<li>Town health officers are encouraged to bring a notebook or laptop computer and a camera to document situation details.</li>
+						<li>The <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/tho_complaint-inspection.pdf">Town Health Officer Complaint and Inspection Form</a> should also be used to record details about inspections.</li>
+						<li>For inspections of <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual09.pdf">possible rental code violations</a>, the town health officer should take the following steps:
+							<ol>
+								<li>Inspect rental housing upon request/complaint from either tenant or property owner.</li>
+								<li>Document findings on the <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/tho_rental-inspection.pdf">Town Health Officer Rental Housing Inspect Checklist</a>.</li>
+								<li>Provide the tenant and property owner with inspection findings and required corrections, with a date for compliance.</li>
+								<li>If findings upon inspection or re-inspection demonstrate that voluntary compliance has not been obtained and the condition of the property continues to violate the <a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">Rental Housing Health Code</a> the town health officer may be required to enforce the Rental Housing Health Code by issuing a health order (<a href="http://legislature.vermont.gov/statutes/section/18/003/00126">Title 18, Chapter 3, 18 V.S.A. &#167; 126</a>) or emergency health order (<a class="outsideLink" href="http://legislature.vermont.gov/statutes/section/18/003/00130">Title 18, Chapter 3, 18 V.S.A. &#167; 130</a>).</li>
+							</ol>
+						</li>
+					</ul>
+					
+					<h2>Enforcement</h2>
+					<p>If a property owner refuses to cooperate with the town health officer to address any rental code violations or public health hazards, the town health officer may need to issue a health order. </p>
+					<h3>Issuing a health order</h3>
+					
+					<div class="sidebar">
+						<h3>Learn more</h3>
+						<p>Information on how to write a health order and details about the required documentation and action by the town health officer can be found in the <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual09.pdf#page=15">Town Health Officer Manual</a> and in the following presentation slides: <a class="outsideLink" href="http://www.healthvermont.gov/local/tho/documents/THO_presentation_VLCT_112710.pdf">Writing Defensible Health Orders</a>.</p>
+						<p>The Vermont Department of Health has drafted <a class="outsideLink" href="http://healthvermont.gov/local/tho/tho.aspx#thomanual">some examples of many of these documents</a>.</p>
+					</div>
+					
+					<p>A health order shall be effective as soon as it is issued, and is a legal document that may be enforced by the local board of health in the local superior court. If the party (property owner) does not comply with the health order, a judge can impose civil fines and criminal penalties on the guilty party.</p>
+					<p>There are two types of health orders:</p>
+					<ul>
+						<li><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/public_health_order_example.pdf">Regular health orders</a></li>
+						<li><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/emergency_public_health_order.pdf">Emergency health orders</a></li>
+					</ul>
+					<p>The main difference between these two types of orders is that an emergency health order does not require notice of intent and an opportunity for a hearing before it is issued. The process for issuing a health order and an emergency health order both require formal service of specific documents on the individual(s) subject to the health order or emergency health order.</p>
+					<h3>Regular health orders</h3>
+					<p>Regular Health Orders must be issued by the select board, but it is the town health officer who performs the investigation and prepares the documents in support of a health order. These documents include:</p>
+					<ul>
+						<li><strong>Notice of intent</strong> &#8212; A statement by the town health officer stating why he/she believes that a health order is necessary</li>
+						<li><strong>Supporting evidence </strong> &#8212; Anything the town health officer has been given, told, observed, or sampled as part of the investigation
+						</li>
+						<li><strong>Statement of procedural rights</strong> &#8212; A document that explains to the party against whom the health order is sought that he/she has the right to receive formal service of the documents, the right to ask the select board for a hearing before the health order is issued, and the opportunity at the hearing to rebut any allegations and demonstrate that no health order should be issued
+						</li>
+					</ul>
+					<p>After these documents have been prepared, the notice of intent to seek a health order must be served on the person who would be subject to the health order. The town health officer may then attend the hearing if the person receiving the notice of intent requests one.</p>
+					<p><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual.pdf">See the Town Health Officer Manual</a> for more details on writing a Regular Health order.</p>
+					
+					<h3>Emergency health orders</h3>
+					<p>Emergency Health Orders may be issued by the town health officer without a prior hearing, and therefore are used when the health officer determines it is necessary to prevent, remove, or destroy an imminent and substantial public health hazard or to mitigate an imminent or significant public health risk.</p>
+					<p>The emergency health order is effective upon actual notice to the person against whom the order is directed.</p>
+					<p><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual09.pdf#page=19">See the Town Health Officer Manual for more details</a>, as well as the <a class="outsideLink" href="http://legislature.vermont.gov/statutes/section/18/003/00127">Vermont Statute on Emergency Health Orders</a>.</p>
+					
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

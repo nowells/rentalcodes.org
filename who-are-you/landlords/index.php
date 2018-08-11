@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="What landlords need to know" />
+		<title>Landlords | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="index.php#content">Jump to content</a></li>
+					<li><a href="../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../municipalities">Municipalities</a></li>
+							<li><a href="../landlords">Landlords</a></li>
+							<li><a href="../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../index.php">Who are you?</a> > Landlords</p>
+				<div class="grid_10 prefix_1">
+
+					<h1>Landlords</h1>
+						
+					<div class="sidebar">
+				
+					<h2 id="generalresources">General resources</h2>
+						<h3>Laws and codes</h3>
+						<ul>
+							<li><a class="outsideLink" href="http://www.leg.state.vt.us/statutes/sections.cfm?Title=09&amp;Chapter=137">Vermont Residential Rental Agreements Law</a></li> 
+							<li><a class="outsideLink" href="http://hrc.vermont.gov/sites/hrc/files/pdfs/laws/fhpaa.pdf">Vermont Fair Housing Law</a></li>
+							<li><a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf">Vermont Rental Housing Health Code</a></li>
+							<li><a class="outsideLink" href="http://firesafety.vermont.gov/sites/firesafety/files/pdf/Code%20Info%20Sheets/2012_firecode.pdf">Vermont Fire and Building Safety Code</a></li>
+							<li><a class="outsideLink" href="http://firesafety.vermont.gov/sites/firesafety/files/pdf/License%20%26%20TQP/ELECTRICAL%20RULES%202014%20NONANNOTATED.pdf">Vermont electrical safety rules</a></li>
+							<li><a class="outsideLink" href="http://drinkingwater.vt.gov/dwrules/pdf/vtwsr2010.pdf">Water supply rule</a></li>
+							<li><a class="outsideLink" href="http://www.vermontdrinkingwater.org/wastewater/pdf/finalwspwsrules.effective2007.09.29.pdf">Wastewater system rules</a></li>			
+						</ul>
+						<h3>Helpful information and explanations</h3>
+						<ul>
+							<li><a class="outsideLink" href="http://www.cvoeo.org/fileLibrary/file_99.pdf">A Guide to Renting in Vermont &#8212; Handbook for Tenants and Landlords</a></li>
+							<li><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/tho_rental-inspection.pdf">Vermont Housing Authority Inspection Checklist</a></li>
+							<li><a class="outsideLink" href="http://www.cvoeo.org/htm/Housing/housing.html">Coordinated Statewide Housing Services, Champlain Valley Office of Economic Opportunity (CVOEO)</a></li>
+							<li><a class="outsideLink" href="http://www.vermontapartmentowners.org">Vermont Apartment Owners Association</a></li>
+						</ul>
+						
+				<!--		<h2 id="keepinguptodate">Keep up-to-date</h2>
+						<p><a href="http://www.rentalcodes.org/mailing-list.php">Register here as a Vermont landlord to receive updates</a> on changes to laws and codes or other relevant information. </p>
+-->					</div>
+					<h2 id="introduction">Introduction</h2>
+					<p>This information is intended to offer <strong>guidance to Vermont landlords</strong> about the legal requirements for renting property. It covers the obligations of a landlord throughout the rental process from beginning to end.</p>
+					<p>This information comes from Vermont laws and codes on residential rental properties, as well as the <a class="outsideLink" href="http://www.cvoeo.org/fileLibrary/file_99.pdf">Renting in Vermont Information Handbook for Tenants and Landlords</a>. Links to this and other resources, including the complete text of Vermont housing laws and codes, can be found in the list of resources (sidebar) and throughout the website.</p> 				
+					<p><strong>The information on this website is a guide only; it is not comprehensive and does not constitute a legal opinion or advice.</strong></p>
+					<p><strong>Please note that <a href="../../resources/communities-with-local-codes.php">some municipalities in Vermont have their own codes and laws</a> that also apply to landlords and are often stricter and include additional requirements. You should <a href="../../resources/town-health-officials.php">check with your town health officers</a> for more information on your local regulations.</strong></p>
+					<p>Some towns also have additional laws governing the rights and responsibilities or landlords and tenants.</p>
+
+					<h2 id="beforeyoucanrent">Before you can rent</h2>
+					<h3>Minimum rental housing standards</h3>
+					<p>Before your property can be rented, you must meet these minimum health and safety building standards of the Vermont Departments of Health and Public Safety:</p>
+					<ul>
+						<li><a href="before-you-can-rent.php#sanitation">Sanitation</a></li>
+						<li><a href="before-you-can-rent.php#buildingsystems">Building systems</a></li>
+						<li><a href="before-you-can-rent.php#structuralelements">Structural elements</a></li>
+						<li><a href="before-you-can-rent.php#leadpaint">Lead paint</a></li>
+						<li><a href="before-you-can-rent.php#lifesafety">Life safety</a></li>
+						<li><a href="before-you-can-rent.php#mobilehomelots">Mobile homes</a></li>
+					</ul>
+					<p><a class="more" href="before-you-can-rent.php">Read more: "Before you can rent"</a></p>
+					
+					
+					<h2 id="rentingoutyourproperty">Renting out your property</h2>
+					<h3>What landlords can and cannot consider when selecting tenants</h3>
+					<p>Under state and federal Fair Housing laws, you cannot take race, religion, color, national origin, age, sex, sexual orientation, marital status, disability, the presence of minor children, receipt of public assistance, or gender identity into consideration when deciding to rent to a tenant. Discrimination on the basis of any one or more of these categories can result in an investigation and/or a lawsuit.</p>
+					<p>However, there are some characteristics you can take into consideration, such as objectionable behavior in prior rentals or past failure to pay rent.</p>
+					<p>You are also required to make certain types of accommodations for tenants with disabilities.</p>
+					<p class="more"><a href="selecting-tenants.php">Read more: "What landlords can and cannot consider when selecting tenants"</a></p>
+					
+					<h3>Leases and other types of rental agreements</h3>
+					<p>There are different types of rental agreements between landlords and tenants. These different types of agreements have different rules for ending or renewing a tenancy. This section is an overview of the various types and their respective rules.</p>
+					<p class="more"><a href="leases.php">Read more: "Leases and other types of rental agreements"</a></p>
+					
+					
+					<h2 id="therentalperiod">Rights and responsibilities</h2>
+					<h3>Rights and responsibilities of a landlord from beginning to end of tenancy</h3>
+					<p>During the rental period you:</p>
+					<ul>
+						<li>Must maintain the property</li>
+						<li>May enter occupied premises only under certain conditions</li>
+						<li>May increase the rent only at certain times</li>
+						<li>Must follow proper procedure for ending a tenancy, including:
+							<ul>
+								<li>Providing proper notice</li>
+								<li>Returning security deposits</li>
+							</ul>
+						</li>
+					</ul>
+					<p class="more"><a href="rights-responsibilities.php">Read more: "Rights and responsibilities of a landlord from beginning to end of tenancy"</a></p>
+					
+					
+					<h2 id="problemswithtenants">Problems with tenants</h2>
+					<h3>How to deal with common tenancy issues</h3>
+					<p>Under Vermont law, you may take only specified actions to address common problems with tenants and or to properly evict a tenant who violates the rental lease. This section addresses the following issues:</p>
+					<ul>
+						<li>Late rent</li>
+						<li>Illegal retaliation</li>
+						<li>Eviction</li>
+					</ul>
+					<p class="more"><a href="tenant-problems.php">Read more: "How to deal with common tenancy issues"</a></p>
+					</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

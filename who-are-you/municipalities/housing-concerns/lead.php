@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="Lead information for town health officers" />
+		<title>Lead | Municipalities | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="lead.php#content">Jump to content</a></li>
+					<li><a href="../../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../../municipalities">Municipalities</a></li>
+							<li><a href="../../landlords">Landlords</a></li>
+							<li><a href="../../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../../index.php">Who are you?</a> > <a href="../index.php">Municipalities</a> &gt; <a href="index.php">Issues and areas of housing concern</a> &gt; Lead</p>
+				<div class="grid_10 prefix_1">
+
+					<h1>Lead</h1>
+					<p>Lead poisoning is a serious but preventable health problem. Lead can cause permanent damage to children &#8212; especially unborn children, infants, toddlers, and children under six years old. Too much lead in a child's body is associate with:</p>
+					<ul>
+						<li>Learning disabilities</li>
+						<li>Behavioral problems</li>
+						<li>Decreased intelligence</li>
+						<li>Other health problems</li>
+					</ul>
+					<p>Adults can also suffer adverse health effects from lead.</p>
+					<p>Lead paint and dust from lead paint are the major sources of lead poisoning in children. Over time, painted surfaces crumble into dust, contaminating homes and soil. This dust or soil clings to toys, hands and objects that children normally put into their mouths.</p>
+														
+					<h2>Vermont's lead law</h2>
+					<p><a class="outsideLink" href="http://www.leg.state.vt.us/statutes/sections.cfm?Title=18&amp;Chapter=038">Vermont's lead law</a> requires landlords whose rental property was built before 1978 to take steps to prevent lead exposure to tenants. These steps include having Essential Maintenance Practices (EMPs) performed on the property annually by a certified EMP practitioner and filing a <a class="outsideLink" href="http://healthvermont.gov/enviro/lead/lead_property.aspx">Compliance Statement</a> with the Department of Health.</p>
+					<p>EMPs include:</p>
+					
+					<ul>
+						<li>Inspecting the property inside and outside.</li>
+						<li>Identifying where paint is in poor condition and promptly fixing. Where paint is peeling in an area larger than 1 square foot, repairs must be completed within 30 days.</li>
+						<li>Installing low-cost inserts in window wells for easier cleaning of all wooden windows.</li>
+						<li>Removing any visible paint chips on the ground outside the building.</li>
+						<li>Taking precautions when remodeling to prevent the spread of lead dust.</li>
+						<li>Performing a specialized cleaning in common areas annually.</li>
+					</ul>
+					<p>Town health officers are encouraged to take one of the Essential Maintenance Practices class offered regularly throughout the state for no cost. A list of classes can be found at <a class="outsideLink" href="http://www.leadsafevermont.org">www.leadsafevermont.org</a>.</p> 
+					<p><a class="outsideLink" href="http://healthvermont.gov/enviro/lead/lead_property.aspx">More information on lead poisoning and the requirements for Vermont Landlords under the lead law can be found on the Department of Health website</a> and the <a href="../../landlords/lead-paint.php">Landlord section of this website</a>.</p>
+					
+					<h2>Role of the town health officer</h2>
+					<p>Town health officers may receive complaints about chipping paint or other lead concerns in older rental properties. Once a complaint is received, the town health officer should conduct an investigation into the property to determine whether it is compliant with the lead law.</p>
+					<p>Town health officers should be familiar with the <a class="outsideLink" href="http://www.leg.state.vt.us/statutes/fullsection.cfm?Title=18&amp;Chapter=038&amp;Section=01759">Essential Maintenance Practices</a> required by Vermont law.</p>
+					
+					<h2>Procedure for lead paint violation investigation</h2>
+					<p>Once a town health officer has received a complaint about possible lead paint violations in rental housing, the town health officer should:</p>
+					<ol>
+						<li>Conduct an on-site investigation using the <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/tho_emp.pdf">Essential Maintenance Practices Compliance Check Form</a> to assist in determining if a property owner is in compliance with the law.</li>
+						<li>Contact the Department of Health to determine if a current compliance statement has been filed by the property owner: Vermont Department of Health, 108 Cherry St., Burlington, VT 05402, (802) 865-7786, toll-free in Vermont: (800) 439-8550.</li>
+						<li>Notify the property owner of any violations found during inspection.</li>
+						<li>Require any violations to be corrected within 30 days utilizing enforcement action (see section on health orders).</li>
+					</ol>
+
+					<p>For more information on the role of town health officers in lead law enforcement, see: <a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/THOtraining_lead_120209.pdf">Presentation slides from Lead, Unsafe Work Practices, EMP's and the THO</a>.</p>
+					
+					<p><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual.pdf">Read more about lead in the Vermont Town Health Officer Manual</a></p>
+
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

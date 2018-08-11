@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="Details about Vermont's housing rental codes by area of interest: Mobile homes" />
+		<title>Mobile homes | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="areasBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="mobile-homes#content">Jump to content</a></li>
+					<li><a href="../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../who-are-you/municipalities">Municipalities</a></li>
+							<li><a href="../who-are-you/landlords">Landlords</a></li>
+							<li><a href="../who-are-you/tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="building-systems">Building systems</a></li>
+							<li><a href="structural-elements">Structural elements</a></li>
+							<li><a href="lead-paint">Lead paint</a></li>
+							<li><a href="life-safety">Life safety</a></li>
+							<li><a href="mobile-homes">Mobile homes</a></li>
+							<li><a href="other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../index.php">Home</a></li>
+					<li><a id="searchLink" href="../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<div class="grid_10 prefix_1">
+				<p id="breadcrumb">You are here: <a href="index.php">Areas of interest</a> > Mobile homes</p>
+				
+				<h1>Mobile homes</h1>
+									<ul>
+						<li><strong>Mobile home</strong> &#8212; Means the structure or type of manufactured home that is designed for long-term and continuous residential occupancy.
+							<ul>
+								<li>A mobile home may be owner occupied or rented.</li>
+								<li>The <a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">rental housing health code</a> applies to all rented mobile homes regardless of whether the home is sited on a mobile home lot or in a mobile home park.</li>
+								<li>Town health officers can investigate a complaint regarding a rented mobile home.</li>
+							</ul>
+						</li>
+						<li><strong>Mobile home lot</strong> &#8212; Means any parcel of land not located in a mobile home park that is leased to a mobile home owner and establishes a property right by way of a lease to the lot.
+							<ul>
+								<li>The <a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">rental housing health code</a> requires every mobile home lot to have a safe connection to electrical services, water supply, and sewage disposal.</li>
+								<li>Town health officers can investigate a complaint regarding the connection to electrical service, water supply and sewage disposal for a mobile home lot.</li>
+							</ul>
+						</li>
+						<li><strong>Mobile home park</strong> &#8212; Means any parcel of land which contains, or is designed to accommodate, more than two mobile homes. Mobile home parks have
+						<a class="outsideLink" href="http://accd.vermont.gov/sites/accdnew/files/documents/H-RulesPartIII-Adopted.pdf">habitability requirements for rented lots in mobile home parks</a> that include:
+							<ul>
+								<li>Mobile home park lots must be safe, clean, and habitable; i.e. free from hazards, sanitary, and usable</li>
+								<li>Mobile home parks in general, including common areas, facilities and park roads, must be safe and fit for their intended use</li>
+								<li><a class="outsideLink" href="https://legislature.vermont.gov/statutes/chapter/10/153">Vermont's Mobile Home Park Law</a> requires every mobile home park lot to have a safe connection to electrical services, water supply, and sewage disposal.</li>
+								<li>The <a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">rental housing health code</a> does <strong><em>not apply</em></strong> to an owner occupied mobile home located in a mobile home park.</li>
+								<li>Mobile home park owners are subject to <a class="outsideLink" href="http://www.leg.state.vt.us/statutes/sections.cfm?Title=10&amp;Chapter=153">Vermont's Mobile Home Park Law</a>.</li>
+							</ul>
+						</li>
+					</ul>
+					
+					<p>For more information about what's required, <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/REG_Rental_Housing_Code.pdf">consult the Vermont Rental Housing Code</a> or <a class="outsideLink" href="http://accd.vermont.gov/housing">contact the Vermont Department of Housing and Community Development</a> or the <a class="outsideLink" href="https://www.cvoeo.org/?fuseaction=dep_intro&dept_id=13">CVOEO Mobile Home Project</a>.</p>
+
+				</div>
+			</div>	<!-- END #content -->
+			
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

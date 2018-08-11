@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="Air quality and mold information for Vermont town health officers" />
+		<title>Air quality and mold | Municipalities | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="air-quality.php#content">Jump to content</a></li>
+					<li><a href="../../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../../municipalities">Municipalities</a></li>
+							<li><a href="../../landlords">Landlords</a></li>
+							<li><a href="../../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../../index.php">Who are you?</a> > <a href="../index.php">Municipalities</a> &gt; <a href="index.php">Issues and areas of housing concern</a> &gt; Air quality and mold</p>
+				<div class="grid_10 prefix_1">
+
+					<h1>Air quality and mold</h1>
+					<p>Mold is a type of fungus that grows throughout the natural and built environment. Most people do not appear to be affected by everyday exposure to mold, however, for those who are affected, exposure may cause allergic reactions in the nose, eyes, throat or may bring on asthma-like signs and symptoms. </p>
+					
+					<h2>Role of the town health officer</h2>
+					<p>The town health officer's role in a mold or air quality issue in rental housing is to determine whether the mold is a result of a housing code violation.</p>
+					<p>Under the <a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">Residential Rental Housing Code</a>, every rental unit must be maintained to be free from the regular or periodic appearance of standing water or excessive moisture which may result in visible mold growth.</p>
+					<p>If mold is visible in rental housing, it may be an indication of standing water or excessive moisture, both of which are violations of the rental housing code.</p>
+					
+					<h2>Procedure for mold investigation</h2>
+					<p>Once a town health officer has received a complaint about mold or air quality in a rental housing property, the town health officer should:</p>
+					<ol>
+						<li><strong>Inspect property.</strong> Mold is commonly found in the following areas:
+							<ul>
+								<li>Basements or attics</li>
+								<li>Flooded areas</li>
+								<li>Bathrooms, kitchens, and closets</li>
+								<li>Around refrigerators, dehumidifiers, and A/C units</li>
+								<li>Mattresses and furniture</li>
+								<li>Windowsills and caulking</li>
+								<li>Carpeting</li>
+							</ul>
+						</li>
+						<li><strong>Inform the landlord</strong> of any findings of excessive moisture or standing water that violate the rental housing code.</li>
+						<li><strong>Request voluntary compliance</strong> from the landlord to stop water intrusion and prioritize structural damage.</li>
+						<li><strong>Re-investigate in 30 days.</strong></li>
+					</ol>
+					<p>For more information on mold and air quality <a class="outsideLink" href="http://healthvermont.gov/enviro/indoor_air/Mold.aspx">see the Department of Health website</a>. Additionally, the following materials contain useful information on mold and the town health officer's role in addressing air quality issues in rental housing:</p>
+					<ul>
+						<li><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/THOtraining_mold_102009.pdf">Presentation Slides on Mold Growth in Buildings</a></li>
+						<li><a class="outsideLink" href="http://healthvermont.gov/enviro/indoor_air/indoor_guide.aspx">Indoor Air Quality Resource Guide</a></li>
+						<li><a class="outsideLink" href="http://www.epa.gov/mold/moldguide.html">EPA guide to Mold, Moisture and Your Home</a></li>
+					</ul>
+					
+					<p><a class="outsideLink" href="http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual.pdf">Read more about air quality and mold in the Vermont Town Health Officer Manual</a></p>
+
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

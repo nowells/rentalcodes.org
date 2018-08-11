@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="What tenants need to know about the process landlords may use to select who rents their properties" />
+		<title>Selecting tenants | Tenants | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="selecting-tenants.php#content">Jump to content</a></li>
+					<li><a href="../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../municipalities">Municipalities</a></li>
+							<li><a href="../landlords">Landlords</a></li>
+							<li><a href="../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<p id="breadcrumb">You are here: <a href="../index.php">Who are you?</a> > <a href="index.php">Tenants</a> &gt; Selecting tenants</p>
+				<div class="grid_10 prefix_1">
+					<h1>Selecting tenants</h1>
+					
+					<div class="sidebar">
+						<h3>Additional information</h3>
+						<ul>
+							<li><a class="outsideLink" href="http://www.cvoeo.org/fileLibrary/file_212.pdf">The Definitive Guide to Renting in Vermont</a></li>
+							<li><a class="outsideLink" href="https://www.cvoeo.org/fileLibrary/file_206.pdf">Guide to Fair Housing For Families in Vermont</a></li>
+							<li><a class="outsideLink" href="https://www.hud.gov/program_offices/fair_housing_equal_opp">Department for Housing and Urban Development</a></li>
+							<li><a class="outsideLink" href="http://www.vaoa.com">Vermont Apartment Owners Association</a></li>
+							<li><a class="outsideLink" href="http://hrc.vermont.gov/sites/hrc/files/laws/VFHPA-2013.pdf">Vermont Fair Housing Act</a></li>
+						</ul>
+					</div>
+					
+					<p>Landlords are subject to federal and state Fair Housing laws when selecting tenants. Under these laws, <strong>there are a number of protected categories and statuses that landlords are prohibited from considering</strong> in their selection of tenants. Mobile home and lot rentals are also subject to these laws. Discrimination on the basis of any one or more of these categories can result in an investigation and/or a lawsuit for a landlord.</p>
+					<p>For more details and the complete wording of these laws, see the <a class="outsideLink" href="http://www.justice.gov/crt/about/hce/title8.php">federal Fair Housing Act</a> and the <a class="outsideLink" href="http://hrc.vermont.gov/sites/hrc/files/pdfs/laws/fhpaa.pdf">Vermont Fair Housing Act</a>.</p>
+					<p>For help understanding a landlord's responsibilities <a class="outsideLink" href="http://www.vaoa.com">contact the Vermont Apartment Owners Association</a>.</p>
+					
+					
+					<h2 style="clear:right;">Knowing the law</h2>
+					<p>Under the <a class="outsideLink" href="http://www.justice.gov/crt/about/hce/title8.php">federal Fair Housing Act</a>, <strong><em>landlords cannot</em></strong> discriminate on the basis of the following categories:</p>
+					<ul>
+						<li>Race</li>
+						<li>Color</li>
+						<li>National origin</li>
+						<li>Religion</li>
+						<li>Sex</li>
+						<li>Family status (Parent[s] with children or pregnant women)</li>
+						<li>Disability</li>
+					</ul>
+					
+					<p>The Vermont Fair Housing Act has added the following protected categories:</p>
+					<ul>
+						<li>Age</li>
+						<li>Marital status</li>
+						<li>Sexual orientation</li>
+						<li>Receipt of public assistance</li>
+						<li>Gender identity</li>
+					</ul>
+					<p>Under these laws, <strong><em>it is illegal for landlords to discriminate on the basis of a protected category</em></strong>. If a landlord is found to be discriminating on the basis of any of these characteristics, he or she is subject to investigation and legal action. Examples of discriminatory action include:</p>
+					<ul>
+						<li>Refusing to rent housing</li>
+						<li>Refusing to show rentals</li>
+						<li>Suggesting available rentals are not available</li>
+						<li>Setting different terms, conditions, or privileges for a rental</li>
+					</ul>
+					
+					<h3>Exceptions</h3>
+					<p>However, there is some information landlords can consider and base a rental decision on when selecting tenants because they are legitimate business practices.</p>
+					<p><strong>Landlords <em>can</em>:</strong></p>
+					<ul>
+						<li>Require references</li>
+						<li>Refuse to rent to someone on the basis of:
+							<ul>
+								<li>Lack of income to pay rent</li>
+								<li>A history of not paying rent</li>
+								<li>A history of objectionable behavior in prior rentals (For example: property damage, noise complaints, disturbing other residents, etc.)</li>
+							</ul>
+						</li>
+					</ul>
+					<p>Additionally, there are some exemptions to the Vermont Fair Housing standards. These include:</p>
+					<ul>
+						<li>Buildings with three or fewer dwelling units, if the owner or a member of the owner's immediate family is living in one of the units</li>
+						<li>Rental units that are inadequate to accommodate the number of people in a family based on reasonable occupancy standards</li>
+						<li>Rental units specifically designated for rental only to the elderly, generally providing significant elder care services</li>
+						<li>Refusing to rent to underage tenants (except emancipated minors)</li>
+						<li>Religious organizations who give preference to tenants solely on the basis of religion</li>
+					</ul>
+					
+					
+					<h3>Tenants with disabilities</h3>
+					<p>In addition to it being illegal for landlords to discriminate against tenants with disabilities, <strong><em>landlords must make reasonable accommodations for tenants with disabilities</em></strong>. </p>
+					<p><strong>Landlords <em>cannot</em>:</strong></p>
+					<ul>
+						<li>Ask tenants if they have a disability</li>
+						<li>Refuse to allow a tenant with a disability to make reasonable modifications to a dwelling unit or common space at the expense of the tenant</li>
+						<li>Refuse to make "reasonable accommodations" to the rules, practices, or services of a dwelling when needed by the tenant (For example, allowing a service animal if the building has a no pets rule)</li>
+					</ul>
+					<p><strong>Landlords <em>can</em>:</strong></p>
+					<ul>
+						<li>Once the tenant has asked for accommodations to be made, ask the tenant to provide proof of a disability or need for an accommodation </li>
+						<li>If reasonable, require the tenant to restore a dwelling unit or common space to its original condition</li>
+					</ul>
+					
+					
+					<h3>Rental applications/fees</h3>
+					<p><strong>Landlords <em>can</em>:</strong></p>
+					<ul>
+						<li>Require tenants to apply for a rental by filling out an application</li>
+						<li>Ask for a variety of information on an application including:
+							<ul>
+								<li>Marital status</li>
+								<li>Family composition</li>
+								<li>Source of income</li>
+								<li>Sex</li>
+							</ul>
+						</li>
+					</ul>
+					<p><strong>Landlords <em>cannot</em>:</strong></p>
+					<ul>
+						<li>Use this information to discriminate against a potential tenant</li>
+						<li>Charge a fee for potential tenants to fill out an application for a rental</li>
+					</ul>
+					
+				
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

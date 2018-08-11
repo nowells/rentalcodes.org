@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="styles/vrc_default.css" />
+		<link rel="shortcut icon" href="images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="About the Vermont housing rental codes Web site" />
+		<title>About this site | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="aboutThisSiteBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="about-this-site.php#content">Jump to content</a></li>
+					<li><a href="who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="who-are-you/municipalities">Municipalities</a></li>
+							<li><a href="who-are-you/landlords">Landlords</a></li>
+							<li><a href="who-are-you/tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="index.php">Home</a></li>
+					<li><a id="searchLink" href="search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="about-us.php">About us</a></li>
+					<li><a id="contactLink" href="contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<div class="grid_10 prefix_1">
+				<p id="breadcrumb">You are here: About this site</p>
+
+				<h1>About this site</h1>
+				
+				<p>This webpage is intended to offer guidance on the health and safety standards that existing residential rental housing in Vermont must meet, as well as the legal rights and responsibilities of landlords and tenants throughout the rental process. The information contained on this website is a guide only; it does not constitute a legal opinion or advice.</p>
+
+				<p>The main codes that regulate existing residential rental housing in Vermont are the <a class="outsideLink" href="http://healthvermont.gov/regs/Rental_Housing_Code.pdf">Vermont Rental Housing Health Code</a> and the <a class="outsideLink" href="http://firesafety.vermont.gov/sites/firesafety/files/pdf/06FireCodeADOPTEDJune2009CORRECTED2011.pdf">Vermont Fire and Building Safety Code</a>.</p>
+				
+				<p>These codes establish the minimum health and safety standards that residential rental housing must be at, and apply to anyone renting or living in residential rental housing in Vermont.</p>
+				
+				<ul>
+					<li>For <strong><em>landlords</em></strong>, these standards represent the minimal state a property must be in before it can be rented. The property must also continue to meet these standards throughout the time a tenant resides there.  Landlords should be aware that various inspections by multiple entities may not address the full scope of requirements under these codes, and meeting all code requirements is the personal responsibility of each landlord.</li>
+					<li>For <strong><em>tenants</em></strong>, these are the standards your landlord is responsible for ensuring a rental unit meets before you move in and throughout your tenancy.</li> 
+					<li>For <strong><em>municipalities</em></strong> and town health officers, these are the standards that should be enforced when inspecting rental housing.</li>
+				</ul>
+				
+				<p>In addition to these two codes, Vermont has a <a class="outsideLink" href="http://www.leg.state.vt.us/statutes/sections.cfm?Title=09&amp;Chapter=137">Residential Rental Agreements Law</a> that applies to landlord and tenant agreements. This law establishes the rights and responsibilities of both parties throughout the rental process, including rent payments, security deposits, termination of a tenancy, landlord access to the rental premises, and eviction.</p>
+				
+				<ul>
+					<li>For <strong><em>landlords</em></strong>, this law establishes:
+						<ul>
+							<li>Obligations to tenant regarding habitability of property</li>
+							<li>Proper procedure for collecting security deposits, accessing property, raising rent, dealing with abandoned property, and the eviction process</li>
+							<li>Prohibition on charging residential rental application fees and taking retaliatory action against a tenant who complains</li>
+							<li>Guidelines for conducting repair work</li>
+						</ul>
+					</li>
+				
+					<li>For <strong><em>tenants</em></strong>, this law establishes:
+						<ul>
+							<li>Obligations to pay landlord timely rent and not damage the rental property or disturb other residents</li>
+							<li>Proper procedure for ending a tenancy</li>
+							<li>Guidelines for getting repair work done on the property</li>
+							<li>Rights regarding landlord access to property, security deposits, raised rent, retrieving abandoned property, and the eviction process</li>
+						</ul>
+					</li>
+				</ul>
+				
+				<p>This website focuses on Vermont's health and safety codes and Residential Rental Agreements law as the main sources of residential rental housing regulations. However, the following codes contain additional requirements that may apply as well:</p>
+
+				<ul>
+					<li><a class="outsideLink" href="http://publicservice.vermont.gov/energy-efficiency/ee_files/rbes/energy_code_handbook_09-04.pdf">Vermont Residential Energy Code</a></li>
+					<li><a class="outsideLink" href="http://www.dps.state.vt.us/fire/fbrochure/renovating_buildings_print.htm">Construction of Rental Housing &#8212; Rehabilitating and Renovating Vermont Housing</a></li>
+					<li><a class="outsideLink" href="http://www.hud.gov/offices/adm/hudclips/guidebooks/7420.10G/7420g10GUID.pdf">Department of Housing and Urban Development (HUD) &#8212; Housing Quality Standards for Subsidized Housing</a></li>
+					<li>Federal and State Fair Housing Laws
+						<ul>
+							<li><a class="outsideLink" href="http://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/FHLaws/yourrights">Federal Fair Housing Act</a> (HUD)</li>
+							<li><a href="http://www.leg.state.vt.us/statutes/sections.cfm?Title=09&amp;Chapter=139">Vermont Fair Housing Law</a></li>
+						</ul>
+					</li>
+					<li>Information about additional health and safety issues in rental housing is available in the <a href="areas-of-interest/other-concerns">Other health and safety concerns section</a>.</li>
+				</ul>
+				
+				<p>It is important to note that many municipalities have their own codes that apply to residential rental housing in addition to the state codes and laws discussed here.  Municipal ordinances often impose stricter requirements on both landlords and tenants, so you should check with your town officials for more information on your local regulations. <a href="resources/communities-with-local-codes.php">Links to the ordinances/codes of some Vermont towns and cities</a> are available on this website.</p>
+				</div>
+			</div>	<!-- END #content -->
+			
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>

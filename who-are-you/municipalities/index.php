@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="../../styles/vrc_default.css" />
+		<link rel="shortcut icon" href="../../images/favicon.ico" />
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.rentalcodes.org/styles/vrc_ie.css" /><![endif]-->
+		<script type="text/javascript" src="../../includes/javascript/jquery-plus-jquery-ui.js"></script>
+		<!--<script type="text/javascript" src="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.packed.js"></script> 
+		<link type="text/css" href="http://www.rentalcodes.org/includes/javascript/ixedit/ixedit.css" rel="stylesheet" />-->
+		<meta name="description" content="Rental code information for municipalities" />
+		<title>Municipalities | Vermont Rental Housing Codes</title>
+	</head>
+	<body id="faqBody">
+		<div class="container_12">
+			<!--<div id="gridded">
+			</div>-->
+			
+			<div id="header">
+				<p id="logo"><a href="../../index.php"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="index.php#content">Jump to content</a></li>
+					<li><a href="../../who-are-you" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+							<li><a href="../municipalities">Municipalities</a></li>
+							<li><a href="../landlords">Landlords</a></li>
+							<li><a href="../tenants">Tenants</a></li>
+						</ul>
+					</li>
+					<li><a href="../../areas-of-interest/index.html" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+							<li><a href="../../areas-of-interest/sanitation-facilities">Sanitation facilities</a></li>
+							<li><a href="../../areas-of-interest/building-systems">Building systems</a></li>
+							<li><a href="../../areas-of-interest/structural-elements">Structural elements</a></li>
+							<li><a href="../../areas-of-interest/lead-paint">Lead paint</a></li>
+							<li><a href="../../areas-of-interest/life-safety">Life safety</a></li>
+							<li><a href="../../areas-of-interest/mobile-homes">Mobile homes</a></li>
+							<li><a href="../../areas-of-interest/other-concerns">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+					<li><a href="../../resources/index.html" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+							<li><a href="../../resources/communities-with-local-codes.php">Communities with local codes</a></li>
+							<li><a href="../../resources/town-health-officials.php">Directory of town health officials</a></li>
+							<li><a href="../../resources/general-resources.php">General resources</a></li>
+						</ul>
+					</li>
+					<li><a href="../../about-this-site.php" id="aboutThisSiteLink">About this site</a></li>
+					<li><a href="../../news/index.php" id="blogLink">News</a></li>
+				</ul>
+				<ul id="secondaryMenu">
+					<li><a id="homeLink" class="first" href="../../index.php">Home</a></li>
+					<li><a id="searchLink" href="../../search.php">Search</a></li>
+					<!--<li><a id="mailingListLink" href="http://www.rentalcodes.org/mailing-list.php">Mailing list</a></li>-->
+					<li><a id="aboutUsLink" href="../../about-us.php">About us</a></li>
+					<li><a id="contactLink" href="../../contact.php">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<div class="grid_10 prefix_1">
+					<p id="breadcrumb">You are here: <a href="../index.php">Who are you?</a> > Municipalities</p>
+					<h1>Municipalities</h1>
+					
+					<div class="sidebar">
+						<h3>Learn more</h3>
+						<p><a href="more-information.php">More information for municipalities</a></p>
+					</div>
+					<p>This information is intended to offer guidance for municipalities and town health officers about rental housing standards in Vermont. It covers the duties and responsibilities of a town health officer with regard to rental housing, and addresses specific housing issues that might be encountered in the course of performing these duties.</p>
+					<p>This information comes from Vermont laws and codes on residential rental properties, as well as the <a class="outsideLink" href="http://www.healthvermont.gov/sites/default/files/Env_THO_THOManual.pdf">Vermont Town Health Officer Manual</a>. Links to this and other resources, including the complete text of Vermont housing laws and codes can be found in the list of resources below and throughout the website at relevant points.</p>
+					<p><strong>The information on this website is a guide only; it is not comprehensive and does not constitute a legal opinion or advice.</strong></p>
+					<p><strong>Please note that <a href="../../resources/communities-with-local-codes.php">some municipalities in Vermont have their own codes and laws</a> that also apply to landlords and are often stricter and include additional requirements. You should <a href="../../resources/town-health-officials.php">check with your town health officers</a> for more information on your local regulations.</strong></p>
+					<p>Some towns also have additional laws governing the rights and responsibilities or landlords and tenants.</p>
+					
+					<h2>Role and duties of a town health officer</h2>
+					<ul>
+						<li>General role of a town health officer</li>
+						<li>General duties of a town health officer</li>
+						<li>Town health officer duties in residential rental housing</li>
+					</ul>
+					<p><a class="more" href="role-duties.php">Read more: "Role and duties of a town health officer"</a></p>
+					
+					<h2>General process and procedure for town health officer involvement in residential rental housing</h2>
+					<h3>Complaint</h3>
+					<p>A town health officer will receive complaints or information about possible health hazards or code violations, and should respond and investigate these complaints accordingly</p>
+					<h3>Investigation</h3>
+					<p>Steps a town health officer should follow after receiving a complaint about rental housing</p>
+					<h3>Enforcement</h3>
+					<p>Issuing a health order for a rental housing concern:</p>
+					<ul>
+						<li>Regular health orders</li>
+						<li>Emergency health orders</li>
+					</ul>
+					<p><a class="more" href="process-procedure.php">Read more: "General process and procedure for town health officer involvement in residential rental housing"</a></p>
+					
+					<h2>Issues and areas of housing concern</h2>
+					<p>Details about common rental housing issues, what the specific role of the town health officer is, and the procedures he or she should follow.</p>
+					<ul>
+						<li><a href="housing-concerns/sewage.php">Sewage</a></li>
+						<li><a href="housing-concerns/lead.php">Lead</a></li>
+						<li><a href="housing-concerns/water-safety.php">Water</a></li>
+						<li><a href="housing-concerns/air-quality.php">Air quality/mold</a></li>
+						<li><a href="housing-concerns/infestations.php">Infestations</a></li>
+					</ul>
+					<p><a class="more" href="housing-concerns.1">Read more: "Issues and areas of housing concern"</a></p>					
+				</div>	<!-- END .grid_10 prefix_1 -->
+			</div>	<!-- END #content -->
+		
+						<div id="footer">
+				<ul>
+					<li><a id="accessibilityLink" href="../../accessibility.php">Accessibility</a></li>
+					<li><a id="legalLink" href="../../legal.php">Legal</a></li>
+				</ul>
+								<p>&copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				<a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a></p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>
