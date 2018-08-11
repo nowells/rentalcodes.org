@@ -13,9 +13,6 @@ http://healthvermont.gov/local/tho/documents/THOtraining_lead_120209.pdf
 http://healthvermont.gov/local/tho/documents/THOtraining_mold_102009.pdf
 http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual.pdf
 http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual09.pdf
-http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual09.pdf#page=15
-http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual09.pdf#page=19
-http://healthvermont.gov/local/tho/documents/TownHealthOfficerManual09.pdf#page=41
 http://healthvermont.gov/local/tho/documents/emergency_public_health_order.pdf
 http://healthvermont.gov/local/tho/documents/public_health_order_example.pdf
 http://healthvermont.gov/local/tho/documents/tho_complaint-inspection.pdf
