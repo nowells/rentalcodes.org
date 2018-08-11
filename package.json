@@ -20,10 +20,10 @@
     "broken-link-checker": "^0.7.8",
     "execa": "^0.10.0",
     "fs-extra": "^7.0.0",
+    "globby": "^8.0.1",
+    "jsdom": "^11.12.0",
     "node-static": "^0.7.10",
+    "turndown": "^4.0.2",
     "wait-on": "^2.1.0"
-  },
-  "devDependencies": {
-    "turndown": "^4.0.2"
   }
 }
