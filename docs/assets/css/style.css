@@ -1,0 +1,1437 @@
+/*	AUTHORSHIP
+---------------------------------------------------------------------------------
+	Title:      Vermont Rental Codes master styles
+	Author:     Craig Bailey <cbailey@vhfa.org>
+	Copyright:  2010 Vermont Housing Finance Agency (VHFA). All rights reserved.
+--------------------------------------------------------------------------------- */
+
+/* http://meyerweb.com/eric/tools/css/reset/ */
+/* v1.0 | 20080212 */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*
+	960 Grid System ~ Core CSS.
+	Learn more ~ http://960.gs/
+
+	Licensed under GPL and MIT.
+*/
+
+/*
+	Forces backgrounds to span full width,
+	even if there is horizontal scrolling.
+	Increase this if your layout is wider.
+
+	Note: IE6 works fine without this fix.
+*/
+
+body {
+	min-width: 960px;
+}
+
+/* `Containers
+----------------------------------------------------------------------------------------------------*/
+
+.container_12,
+.container_16 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+
+/* `Grid >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12,
+.grid_13,
+.grid_14,
+.grid_15,
+.grid_16 {
+	display: inline;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.push_1, .pull_1,
+.push_2, .pull_2,
+.push_3, .pull_3,
+.push_4, .pull_4,
+.push_5, .pull_5,
+.push_6, .pull_6,
+.push_7, .pull_7,
+.push_8, .pull_8,
+.push_9, .pull_9,
+.push_10, .pull_10,
+.push_11, .pull_11,
+.push_12, .pull_12,
+.push_13, .pull_13,
+.push_14, .pull_14,
+.push_15, .pull_15 {
+	position: relative;
+}
+
+.container_12 .grid_3,
+.container_16 .grid_4 {
+	width: 220px;
+}
+
+.container_12 .grid_6,
+.container_16 .grid_8 {
+	width: 460px;
+}
+
+.container_12 .grid_9,
+.container_16 .grid_12 {
+	width: 700px;
+}
+
+.container_12 .grid_12,
+.container_16 .grid_16 {
+	width: 940px;
+}
+
+/* `Grid >> Children (Alpha ~ First, Omega ~ Last)
+----------------------------------------------------------------------------------------------------*/
+
+.alpha {
+	margin-left: 0;
+}
+
+.omega {
+	margin-right: 0;
+}
+
+/* `Grid >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .grid_1 {
+	width: 60px;
+}
+
+.container_12 .grid_2 {
+	width: 140px;
+}
+
+.container_12 .grid_4 {
+	width: 300px;
+}
+
+.container_12 .grid_5 {
+	width: 380px;
+}
+
+.container_12 .grid_7 {
+	width: 540px;
+}
+
+.container_12 .grid_8 {
+	width: 620px;
+}
+
+.container_12 .grid_10 {
+	width: 780px;
+}
+
+.container_12 .grid_11 {
+	width: 860px;
+}
+
+/* `Grid >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .grid_1 {
+	width: 40px;
+}
+
+.container_16 .grid_2 {
+	width: 100px;
+}
+
+.container_16 .grid_3 {
+	width: 160px;
+}
+
+.container_16 .grid_5 {
+	width: 280px;
+}
+
+.container_16 .grid_6 {
+	width: 340px;
+}
+
+.container_16 .grid_7 {
+	width: 400px;
+}
+
+.container_16 .grid_9 {
+	width: 520px;
+}
+
+.container_16 .grid_10 {
+	width: 580px;
+}
+
+.container_16 .grid_11 {
+	width: 640px;
+}
+
+.container_16 .grid_13 {
+	width: 760px;
+}
+
+.container_16 .grid_14 {
+	width: 820px;
+}
+
+.container_16 .grid_15 {
+	width: 880px;
+}
+
+/* `Prefix Extra Space >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .prefix_3,
+.container_16 .prefix_4 {
+	padding-left: 240px;
+}
+
+.container_12 .prefix_6,
+.container_16 .prefix_8 {
+	padding-left: 480px;
+}
+
+.container_12 .prefix_9,
+.container_16 .prefix_12 {
+	padding-left: 720px;
+}
+
+/* `Prefix Extra Space >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .prefix_1 {
+	padding-left: 80px;
+}
+
+.container_12 .prefix_2 {
+	padding-left: 160px;
+}
+
+.container_12 .prefix_4 {
+	padding-left: 320px;
+}
+
+.container_12 .prefix_5 {
+	padding-left: 400px;
+}
+
+.container_12 .prefix_7 {
+	padding-left: 560px;
+}
+
+.container_12 .prefix_8 {
+	padding-left: 640px;
+}
+
+.container_12 .prefix_10 {
+	padding-left: 800px;
+}
+
+.container_12 .prefix_11 {
+	padding-left: 880px;
+}
+
+/* `Prefix Extra Space >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .prefix_1 {
+	padding-left: 60px;
+}
+
+.container_16 .prefix_2 {
+	padding-left: 120px;
+}
+
+.container_16 .prefix_3 {
+	padding-left: 180px;
+}
+
+.container_16 .prefix_5 {
+	padding-left: 300px;
+}
+
+.container_16 .prefix_6 {
+	padding-left: 360px;
+}
+
+.container_16 .prefix_7 {
+	padding-left: 420px;
+}
+
+.container_16 .prefix_9 {
+	padding-left: 540px;
+}
+
+.container_16 .prefix_10 {
+	padding-left: 600px;
+}
+
+.container_16 .prefix_11 {
+	padding-left: 660px;
+}
+
+.container_16 .prefix_13 {
+	padding-left: 780px;
+}
+
+.container_16 .prefix_14 {
+	padding-left: 840px;
+}
+
+.container_16 .prefix_15 {
+	padding-left: 900px;
+}
+
+/* `Suffix Extra Space >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .suffix_3,
+.container_16 .suffix_4 {
+	padding-right: 240px;
+}
+
+.container_12 .suffix_6,
+.container_16 .suffix_8 {
+	padding-right: 480px;
+}
+
+.container_12 .suffix_9,
+.container_16 .suffix_12 {
+	padding-right: 720px;
+}
+
+/* `Suffix Extra Space >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .suffix_1 {
+	padding-right: 80px;
+}
+
+.container_12 .suffix_2 {
+	padding-right: 160px;
+}
+
+.container_12 .suffix_4 {
+	padding-right: 320px;
+}
+
+.container_12 .suffix_5 {
+	padding-right: 400px;
+}
+
+.container_12 .suffix_7 {
+	padding-right: 560px;
+}
+
+.container_12 .suffix_8 {
+	padding-right: 640px;
+}
+
+.container_12 .suffix_10 {
+	padding-right: 800px;
+}
+
+.container_12 .suffix_11 {
+	padding-right: 880px;
+}
+
+/* `Suffix Extra Space >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .suffix_1 {
+	padding-right: 60px;
+}
+
+.container_16 .suffix_2 {
+	padding-right: 120px;
+}
+
+.container_16 .suffix_3 {
+	padding-right: 180px;
+}
+
+.container_16 .suffix_5 {
+	padding-right: 300px;
+}
+
+.container_16 .suffix_6 {
+	padding-right: 360px;
+}
+
+.container_16 .suffix_7 {
+	padding-right: 420px;
+}
+
+.container_16 .suffix_9 {
+	padding-right: 540px;
+}
+
+.container_16 .suffix_10 {
+	padding-right: 600px;
+}
+
+.container_16 .suffix_11 {
+	padding-right: 660px;
+}
+
+.container_16 .suffix_13 {
+	padding-right: 780px;
+}
+
+.container_16 .suffix_14 {
+	padding-right: 840px;
+}
+
+.container_16 .suffix_15 {
+	padding-right: 900px;
+}
+
+/* `Push Space >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .push_3,
+.container_16 .push_4 {
+	left: 240px;
+}
+
+.container_12 .push_6,
+.container_16 .push_8 {
+	left: 480px;
+}
+
+.container_12 .push_9,
+.container_16 .push_12 {
+	left: 720px;
+}
+
+/* `Push Space >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .push_1 {
+	left: 80px;
+}
+
+.container_12 .push_2 {
+	left: 160px;
+}
+
+.container_12 .push_4 {
+	left: 320px;
+}
+
+.container_12 .push_5 {
+	left: 400px;
+}
+
+.container_12 .push_7 {
+	left: 560px;
+}
+
+.container_12 .push_8 {
+	left: 640px;
+}
+
+.container_12 .push_10 {
+	left: 800px;
+}
+
+.container_12 .push_11 {
+	left: 880px;
+}
+
+/* `Push Space >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .push_1 {
+	left: 60px;
+}
+
+.container_16 .push_2 {
+	left: 120px;
+}
+
+.container_16 .push_3 {
+	left: 180px;
+}
+
+.container_16 .push_5 {
+	left: 300px;
+}
+
+.container_16 .push_6 {
+	left: 360px;
+}
+
+.container_16 .push_7 {
+	left: 420px;
+}
+
+.container_16 .push_9 {
+	left: 540px;
+}
+
+.container_16 .push_10 {
+	left: 600px;
+}
+
+.container_16 .push_11 {
+	left: 660px;
+}
+
+.container_16 .push_13 {
+	left: 780px;
+}
+
+.container_16 .push_14 {
+	left: 840px;
+}
+
+.container_16 .push_15 {
+	left: 900px;
+}
+
+/* `Pull Space >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .pull_3,
+.container_16 .pull_4 {
+	left: -240px;
+}
+
+.container_12 .pull_6,
+.container_16 .pull_8 {
+	left: -480px;
+}
+
+.container_12 .pull_9,
+.container_16 .pull_12 {
+	left: -720px;
+}
+
+/* `Pull Space >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .pull_1 {
+	left: -80px;
+}
+
+.container_12 .pull_2 {
+	left: -160px;
+}
+
+.container_12 .pull_4 {
+	left: -320px;
+}
+
+.container_12 .pull_5 {
+	left: -400px;
+}
+
+.container_12 .pull_7 {
+	left: -560px;
+}
+
+.container_12 .pull_8 {
+	left: -640px;
+}
+
+.container_12 .pull_10 {
+	left: -800px;
+}
+
+.container_12 .pull_11 {
+	left: -880px;
+}
+
+/* `Pull Space >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .pull_1 {
+	left: -60px;
+}
+
+.container_16 .pull_2 {
+	left: -120px;
+}
+
+.container_16 .pull_3 {
+	left: -180px;
+}
+
+.container_16 .pull_5 {
+	left: -300px;
+}
+
+.container_16 .pull_6 {
+	left: -360px;
+}
+
+.container_16 .pull_7 {
+	left: -420px;
+}
+
+.container_16 .pull_9 {
+	left: -540px;
+}
+
+.container_16 .pull_10 {
+	left: -600px;
+}
+
+.container_16 .pull_11 {
+	left: -660px;
+}
+
+.container_16 .pull_13 {
+	left: -780px;
+}
+
+.container_16 .pull_14 {
+	left: -840px;
+}
+
+.container_16 .pull_15 {
+	left: -900px;
+}
+
+/* `Clear Floated Elements
+----------------------------------------------------------------------------------------------------*/
+
+/* http://sonspring.com/journal/clearing-floats */
+
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+/* http://www.yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified */
+
+.clearfix:before,
+.clearfix:after {
+	content: '\0020';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+/*
+	The following zoom:1 rule is specifically for IE6 + IE7.
+	Move to separate stylesheet if invalid CSS is a problem.
+*/
+
+.clearfix {
+	zoom: 1;
+}
+
+body	{
+	background:url(../images/grid_bg.gif) fixed;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:62.5%;
+	color:#000;
+}
+#gridded	{
+	background:url(../images/grid_bg/12_col.gif);
+	width:960px;
+	height:800px;
+	position:fixed;
+	z-index: 1;
+	opacity:0.6;
+}
+.container_12	{
+	background:rgba(255, 255, 255, 0.7);
+	margin-bottom:3em;
+}
+#content	{
+	padding:3em 0;
+	position:relative;
+}
+p, li, address, label, dt, dd, td, th	{
+	font-size:1.3em;
+	line-height:1.3em;
+	font-style:normal;
+	margin-bottom:1em;
+}
+dt	{
+	margin-bottom:0;
+	font-weight:bold;
+	color:#1c6daf;
+}
+ul, ol	{
+	margin-bottom:1.5em;
+}
+ul	{
+	list-style-type: square;
+	padding-left:6em;
+}
+ol	{
+	list-style:decimal;
+	padding:0 0 2em 2em;
+}
+li	{
+	margin-bottom:0;
+}
+li address	{
+	font-size:100%;
+}
+#content li ul, #content li ol	{
+	padding:0 0 0 3em;
+	font-size:75%;
+}
+h1, h2, h3, h4, h5, h6	{
+	color:#1c6daf;
+	margin-bottom:.75em;
+	line-height:120%;
+}
+h1	{
+	font-size:3em;
+	margin-top:.5em;
+}
+h2	{
+	font-size:2.25em;
+	margin-top:1.5em;
+	margin-left:-6px;
+	background:#e5e5e5;
+	padding:3px 6px;
+}
+h3	{
+	font-size:1.75em;
+	margin-top:1.5em;
+}
+h4	{
+	font-size:1.5em;
+	margin:1.5em 0 0 0;
+	color:#797979;
+}
+h5, h6	{
+	font-size:1.3em;
+	margin:1.5em 0 0 0;
+	font-style: italic;
+	color:#797979;
+}
+#legalBody h4, #legalBody h5, #legalBody h6	{
+	color:#1c6daf;
+}
+.slug	{
+	font-weight:bold;
+	font-style:italic;
+	color:#1c6daf;
+	margin-top:-1em;
+	font-size:140%;
+}
+.hidden	{
+	position:absolute;
+	text-indent:-9999em;
+	overflow:hidden;
+}
+hr	{
+	border:1px solid #67aae1;
+	margin-top:3em;
+}
+p strong, li strong	{
+	color:#323133;
+}
+.sidebar	{
+	float:right;
+	background:#d8e6ef;
+	font-size:90%;
+	padding:0 20px 10px 20px;
+	margin:0 -80px 20px 20px;
+	width:260px;
+	border-left:20px solid #fff;
+}
+.sidebar ul	{
+	padding-left:2em;
+}
+.sidebar p, .sidebar li, .sidebar dt, .sidebar dd	{
+	line-height:145%;
+}
+.sidebar h2	{
+	background:none;
+	padding:0;
+}
+#blogBody h2	{
+	background:none;
+	padding:0;
+}
+.sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5	{
+	color:#1c6daf;
+}
+#breadcrumb	{
+	position:absolute;
+	left:90px;
+	top:18px;
+	color:#333;
+	font-size:110%;
+}
+
+/*	TABLES
+--------------------------------------------------------------------------------- */
+table	{
+	margin:2em 0;
+	background:#e8eaea;
+	font-size:90%;
+}
+table ul	{
+	padding-left:1.2em;
+}
+table li	{
+	font-size:100%;
+	line-height:140%;
+}
+td, th	{
+	width:20%;
+	text-align:left;
+	padding:.75em;
+	border:1px solid #1c6daf;
+	line-height:140%;
+}
+th	{
+	background:#1c6daf;
+	color:#fff;
+	border:1px solid #fff;
+}
+
+/*	HEADER
+--------------------------------------------------------------------------------- */
+#header	{
+	background:#1c6daf url(../images/header_bg.gif) no-repeat;
+	height:195px;
+	position:relative;
+	z-index:1;
+}
+#logo {
+	width:221px;
+	height:51px;
+	position:relative;
+	top:69px;
+	left:168px;
+	overflow:hidden;
+}
+#logo span {
+	background:url(../images/logo.gif) no-repeat;
+	position:absolute;
+	width:222px;
+	height:62px;
+}
+#header em {
+	width:351px;
+	height:35px;
+	position:relative;
+	top:22px;
+	left:602px;
+	overflow:hidden;
+	display:block;
+}
+
+/*	FOOTER
+--------------------------------------------------------------------------------- */
+#footer	{
+	text-align:center;
+	font-size:90%;
+	padding:4em 0 8.5em 0;
+	background:url(../images/registration_mark.gif) center 16em no-repeat;
+	clear:both;
+}
+#footer ul	{
+	margin:2em 0;
+	padding:0;
+}
+#footer ul li	{
+	display:inline;
+	padding:0 .5em;
+}
+
+
+/*	NAVIGATION
+--------------------------------------------------------------------------------- */
+#secondaryMenu	{
+	position:absolute;
+	top:0;
+	right:0;
+	background:rgba(8, 10, 10, 0.5);
+	color:#fff;
+	padding:0;
+}
+#secondaryMenu li	{
+	display:inline;
+	text-transform:uppercase;
+	font-size:90%;
+}
+#secondaryMenu a:link, #secondaryMenu a:visited	{
+	color:#fff;
+	text-decoration: none;
+	padding:6px 17px;
+	display:block;
+	float:left;
+	background:url(../images/menu_pipe.gif) 0 5px no-repeat;
+}
+#secondaryMenu a:hover	{
+	background:#d1d6d6;
+	color:#191e1e;
+	text-decoration: none;
+	padding:6px 17px;
+	display:block;
+	float:left;
+}
+#primaryMenu	{
+	position:absolute;
+	top:149px;
+	left:0px;
+	color:#fff;
+	padding:7px 0;
+	font-weight:bold;
+}
+#primaryMenu li	{
+	display:inline;
+}
+#primaryMenu li li	{
+	font-size:1.3em;
+	line-height:1.3em;
+}
+#primaryMenu a:link, #primaryMenu a:visited	{
+	text-decoration: none;
+	color:#fff;
+	background:url(../images/menu_pipe_lg.gif) no-repeat;
+}
+#primaryMenu a:hover	{
+	text-decoration: none;
+	color:#fff;
+	background:#4d99ce;
+}
+#primaryMenu #faqLink, #primaryMenu #areasOfInterestLink, #primaryMenu #blogLink	{
+	width:160px;
+	text-align:center;
+	display:block;
+	float:left;
+	padding:11px 0;
+}
+#primaryMenu #resourcesLink, #primaryMenu #aboutThisSiteLink	{
+	width:240px;
+	text-align:center;
+	display:block;
+	float:left;
+	padding:11px 0;
+}
+#primaryMenu li:hover ul a {	/* Format all submenus */
+	display:block;
+	padding:7px 0 7px 6px;
+	width:154px;
+	border-top:1px solid #fff;
+	font-size:75%;
+	background-image:none;
+}
+#primaryMenu li ul {	/* Hide submenus by default */
+	position: absolute;
+	left:-999em;
+	font-weight:normal;
+	background:#1c6daf;
+	top:46px;
+	padding:0;
+}
+#primaryMenu li:hover ul#faqSubLink {	/* Reveal areasOfInterestSubLink */
+	left:0px;
+	width:160px;
+}
+#primaryMenu li:hover ul#areasOfInterestSubLink {	/* Reveal areasOfInterestSubLink */
+	left:160px;
+	width:160px;
+}
+#primaryMenu li:hover ul#areasOfInterestSubLink a {	/* Format areasOfInterestSubLink */
+	width:154px;
+}
+#primaryMenu li:hover ul#resourcesSubLink {	/* Reveal resourcesSubLink */
+	left:320px;
+	width:240px;
+}
+#primaryMenu li:hover ul#resourcesSubLink a {	/* Format resourcesSubLink */
+	width:234px;
+}
+
+
+/*	STICKY MENUS
+--------------------------------------------------------------------------------- */
+#secondaryMenu a.first, #primaryMenu a.first	{
+	background-image:none;
+}
+#homeBody #secondaryMenu li a:hover#homeLink	{
+	background:#181e1e;
+	color:#fff;
+	cursor:default;
+}
+#mailingListBody #secondaryMenu li a#mailingListLink, #mailingListBody #secondaryMenu li a#mailingListLink,
+#contactBody #secondaryMenu li a#contactLink, #searchBody #secondaryMenu li a#searchLink, #aboutUsBody #secondaryMenu li a#aboutUsLink	{
+	background:#d1d6d6;
+	color:#191e1e;
+	cursor:default;
+}
+#faqBody #faqLink, #areasOfInterestBody #areasOfInterestLink, #resourcesBody #resourcesLink, #aboutThisSiteBody #aboutThisSiteLink,
+#blogBody #blogLink, #areasBody #areasOfInterestLink, #resourcesBody #resourcesLink	{
+	color:#fff;
+	background:#4d99ce;
+	cursor:default;
+}
+#legalBody #legalLink, #accessibilityBody #accessibilityLink	{
+	text-decoration: none;
+	color:#000;
+	cursor:text;
+}
+
+
+/*	LINKS
+--------------------------------------------------------------------------------- */
+a:link, .fauxLink	{
+	color:#1c6daf;
+	text-decoration:underline;
+	cursor:pointer;
+}
+a:visited, .fauxLink:visited	{
+	color:#3a4f5c;
+	text-decoration:underline;
+	cursor:pointer;
+}
+a:hover, .fauxLink:hover	{
+	color:#008dff;
+	text-decoration:underline;
+	cursor:pointer;
+}
+a:active, .fauxLink:active	{
+	color:#ffd815;
+	cursor:pointer;
+}
+a:visited.alwaysHot	{
+	color:#1c6daf !important;
+}
+a:hover.alwaysHot	{
+	color:#008dff !important;
+}
+.more	{
+	padding-left:2.65em;
+	background:url(../images/more.gif) no-repeat;
+	height:22px;
+	display:block;
+	margin-left:2em;
+}
+.outsideLink	{
+	padding-right:15px;
+	background:url("../images/external_link.gif") no-repeat right;
+}
+
+/*	ERRORS
+--------------------------------------------------------------------------------- */
+#errorBox	{
+	background:#fffde4;
+	padding:1em 2em;
+	margin-bottom:2em;
+	-moz-border-radius:12px;
+	border-radius:12px;
+	border:1px dashed #ae1500;
+}
+#errorBox h2	{
+	color:#ae1500;
+}
+#errorBox em	{
+	font-style:normal;
+	font-weight:bold;
+	color:#ae1500;
+}
+#errorBox ul	{
+	margin-bottom:1em;
+}
+#errorBox li	{
+	margin:0;
+}
+
+/*	FRONT PAGE
+--------------------------------------------------------------------------------- */
+#areasOfInterest, #whoAreYou {
+	width:460px;
+	height:63px;
+	overflow:hidden;
+	margin-top:0;
+}
+#homeBody .grid_6	{
+	height:41em;
+	background:#d3d5d5;
+}
+#homeBody .grid_6 p	{
+	padding:0 20px 20px 20px;
+	margin:0;
+}
+#homeBody .grid_6 ul	{
+	padding:0 20px 0 34px;
+}
+.whoButton	{
+	width:297px;
+	text-align:center;
+	margin:0 0 9px 80px;
+	font-size:130%;
+	line-height:120%;
+}
+.whoButton strong	{
+	text-transform: uppercase;
+}
+.whoButton a	{
+	display:block;
+	width:100%;
+	padding:21px 0;
+	background:#9b9e9e;
+	border-top:2px solid #BEBFBF;
+	border-left:2px solid #BEBFBF;
+	border-right:2px solid #606060;
+	border-bottom:2px solid #606060;
+	color:#000;
+	text-decoration: none;
+}
+.whoButton a:hover	{
+	background:#4D99CE;
+	border-top:2px solid #3C7D99;
+	border-left:2px solid #3C7D99;
+	border-right:2px solid #5DBEF4;
+	border-bottom:2px solid #5DBEF4;
+	color:#fff;
+}
+.areasButton	{
+	width:197px;
+	text-align:center;
+	margin:0 0 6px 20px;
+	font-size:120%;
+	line-height:106%;
+}
+#detailsHole, #sanitationDetails, #buildingDetails, #structuralDetails, #leadDetails, #lifeDetails, #mobileHomeDetails, #otherConcernsDetails	{
+	width:157px;
+	height:228px;
+	right:20px;
+	top:0;
+	background:#E8EAEA url(../images/keyhole_bg.gif) 50% 50% no-repeat;
+	float:right;
+	margin-right:20px;
+	position:absolute;
+}
+#sanitationDetails, #buildingDetails, #structuralDetails, #leadDetails, #lifeDetails, #mobileHomeDetails, #otherConcernsDetails	{
+	background:#1c6daf;
+	padding-top:10px !important;
+	height:218px;
+	color:#fff;
+}
+#sanitationDetails strong, #buildingDetails strong, #structuralDetails strong, #leadDetails strong, #lifeDetails strong, #mobileHomeDetails strong, #otherConcernsDetails strong	{
+	color:#fff;
+}
+.areasButton a	{
+	display:block;
+	width:100%;
+	padding:6px 0;
+	background:#9b9e9e;
+	border-top:2px solid #BEBFBF;
+	border-left:2px solid #BEBFBF;
+	border-right:2px solid #606060;
+	border-bottom:2px solid #606060;
+	color:#000;
+	text-decoration: none;
+}
+.areasButton a:hover	{
+	background:#4D99CE;
+	border-top:2px solid #3C7D99;
+	border-left:2px solid #3C7D99;
+	border-right:2px solid #5DBEF4;
+	border-bottom:2px solid #5DBEF4;
+	color:#fff;
+}
+
+/*	BLOG
+--------------------------------------------------------------------------------- */
+#blogBody h2	{
+	margin-top:0;
+}
+#blogBody .slug	{
+	margin-top:-.8em;
+	font-style:italic;
+	color:#323133;
+	font-weight:normal;
+	font-size:120%;
+}
+#blogBody .postFooter	{
+	margin-bottom:0;
+	font-size:120%;
+}
+#blogBody hr	{
+	margin-top:3em;
+	color:#bec3c3;
+	border:1;
+}
+#blogBody .post	{
+	background:#ebf0f3;
+	padding:20px;
+	margin:0 0 20px -20px;
+	-moz-border-radius:12px;
+	border-radius:12px;
+}
+#blogBody #sidebar	{
+	margin-top:60px;
+}
+#blogBody #sidebar select	{
+	width:100%;
+}
+#blogBody #sidebar #s	{
+	width:135px;
+	margin-bottom:6px;
+}
+#blogBody #sidebar ul	{
+	margin:0;
+	padding:0;
+}
+#blogBody #sidebar li	{
+	list-style-type: none;
+}
+#blogBody #sidebar h3	{
+	font-size:110%;
+	margin:1.5em 0 4px 0;
+}
+#blogBody #sidebar h4	{
+	font-size:100%;
+	margin:1.5em 0 0px 0;
+}
+#blogBody #sidebar img	{
+	margin-top:1em;
+}
+#blogBody .prevNext	{
+	margin-left:.5em;
+}
+
+/*	MAILING LIST
+--------------------------------------------------------------------------------- */
+#mailingListBody #submit	{
+	display:block;
+	margin-top:12px;
+}
+#mailingListBody label	{
+	display:block;
+	margin-bottom:0;
+	font-weight:bold;
+	color:#1c6daf;
+}
+#mailingListBody #email	{
+	width:214px;
+	margin-bottom:12px;
+}
+
+/*	ADMIN
+--------------------------------------------------------------------------------- */
+#logIn .inputRow	{
+	clear:both;
+}
+#logIn label	{
+	float:left;
+	width:70px;
+	text-align:right;
+	padding-right:10px;
+}
+#logIn input	{
+	float:left;
+	width:141px;
+}
+#logIn #forgot, #logIn #loginButton, #logIn #resetPassword 	{
+	clear:both;
+	display:block;
+	font-size:80%;
+	padding-left:80px;
+}
+#logIn #badLogin	{
+	clear:both;
+	display:block;
+	margin-left:80px;
+	color:#ff0000;
+	font-weight:bold;
+}
+#adm1nBody #sidebar	{
+	background:#fff;
+}
+#adm1nBody #sidebar h3	{
+	font-size:130%;
+	margin-bottom:0;
+	padding:1em 1em 0 1em;
+}
+#adm1nBody #sidebar p	{
+	padding:0 1em;
+}
+
+/*	AUTHORSHIP
+---------------------------------------------------------------------------------
+	Title:      Vermont Rental Codes National Day of Civic Hacking (2018) styles
+	Author:     Anselm Bradford <anselm@codeforamerica.org>
+	Copyright:  2018 Vermont Housing Finance Agency (VHFA). All rights reserved.
+--------------------------------------------------------------------------------- */
+
+/* Area of interest/Who are you heading. */
+#areasOfInterest,
+#whoAreYou {
+  height: 50px;
+  background: #98a3a1;
+  text-align: center;
+  color: #ffffff;
+  font-weight: 100;
+  padding-top: 20px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px rgba(100,100,100,0.5);
+  background: #98a3a1;
+  background: -moz-linear-gradient(top, #98a3a1 0%, #86908e 100%);
+  background: -webkit-linear-gradient(top, #98a3a1 0%,#86908e 100%);
+  background: linear-gradient(to bottom, #98a3a1 0%,#86908e 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#98a3a1', endColorstr='#86908e',GradientType=0 );
+}
+
+/* Area of interest/Who are you menu. */
+.pointer {
+  width: 20px;
+  height: 20px;
+  background-color: #1c6daf;
+  transform: rotate(45deg);
+  position: absolute;
+  left: -7px;
+}
+
+.areasButton a,
+.whoButton a {
+  border-color: rgba(0,0,0,0);
+  background: #98a3a1;
+  background: -moz-linear-gradient(top, #98a3a1 0%, #86908e 100%);
+  background: -webkit-linear-gradient(top, #98a3a1 0%,#86908e 100%);
+  background: linear-gradient(to bottom, #98a3a1 0%,#86908e 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#98a3a1', endColorstr='#86908e',GradientType=0 );
+}
+
+.areasButton + p {
+  display: none;
+}
+
+.areasButton:hover + p {
+  z-index: 100;
+  display: block;
+}
+
+.areasButton:hover + p strong {
+  font-size: 1.4em;
+}
+
+.areasButton:hover:nth-child(1) + p .pointer {
+  top: 5px;
+}
+
+.areasButton:hover:nth-child(3) + p .pointer {
+  top: 38px;
+}
+
+.areasButton:hover:nth-child(5) + p .pointer {
+  top: 71px;
+}
+
+.areasButton:hover:nth-child(7) + p .pointer {
+  top: 106px;
+}
+
+.areasButton:hover:nth-child(9) + p .pointer {
+  top: 139px;
+}
+
+.areasButton:hover:nth-child(11) + p .pointer {
+  top: 174px;
+}
+
+.areasButton:hover:nth-child(13) + p .pointer {
+  top: 212px;
+}
+
+/* Upper-right menu size. */
+#secondaryMenu li {
+  font-size: 120%;
+}
+
+/* "A housing resource for Vermont town officials, landlords and tenants"
+   text in the header. */
+#logo + p em {
+  color: #ffffff;
+  text-align: right;
+  font-style: normal;
+  font-size: 1.1em;
+  opacity: 0.7;
+  width: 340px;
+  line-height: 1.4em;
+}

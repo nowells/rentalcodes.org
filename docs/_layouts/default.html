@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
+		<link rel="shortcut icon" href="http://www.rentalcodes.org/images/favicon.ico" />
+		<meta name="description" content="Details about Vermont's housing rental codes by area of interest: Building systems" />
+		<title>| Vermont Rental Housing Codes</title>
+	</head>
+    <body>
+		<div class="container_12">
+			<div id="header">
+                <p id="logo"><a href="{{ "/" | relative_url }}"><span></span>Vermont Rental Codes</a></p>
+				<p><em><span></span>A housing resource for Vermont town officials, landlords and tenants</em></p>
+				<ul id="primaryMenu">
+					<li class="hidden"><a href="#content">Jump to content</a></li>
+                    <li><a href="{{ "/who-are-you/" | relative_url }}" id="faqLink" class="first">Who are you?</a>
+						<ul id="faqSubLink">
+                            <li><a href="{{ "/who-are-you/municipalities" | relative_url }}">Municipalities</a></li>
+                            <li><a href="{{ "/who-are-you/landlords" | relative_url }}">Landlords</a></li>
+                            <li><a href="{{ "/who-are-you/tenants" | relative_url }}">Tenants</a></li>
+						</ul>
+					</li>
+                    <li><a href="{{ "/areas-of-interest/" | relative_url }}" id="areasOfInterestLink">Areas of interest</a>
+						<ul id="areasOfInterestSubLink">
+                            <li><a href="{{ "/areas-of-interest/sanitation-facilities/" | relative_url }}">Sanitation facilities</a></li>
+                            <li><a href="{{ "/areas-of-interest/building-systems/" | relative_url }}">Building systems</a></li>
+                            <li><a href="{{ "/areas-of-interest/structural-elements/" | relative_url }}">Structural elements</a></li>
+                            <li><a href="{{ "/areas-of-interest/lead-paint/" | relative_url }}">Lead paint</a></li>
+                            <li><a href="{{ "/areas-of-interest/life-safety/" | relative_url }}">Life safety</a></li>
+                            <li><a href="{{ "/areas-of-interest/mobile-homes/" | relative_url }}">Mobile homes</a></li>
+                            <li><a href="{{ "/areas-of-interest/other-concerns/" | relative_url }}">Other health and safety concerns</a></li>
+						</ul>
+					</li>
+                    <li><a href="{{ "/resources/" | relative_url }}" id="resourcesLink">Resources</a>
+						<ul id="resourcesSubLink">
+                            <li><a href="{{ "/resources/communities-with-local-codes.html" | relative_url }}">Communities with local codes</a></li>
+                            <li><a href="{{ "/resources/town-health-officials.html" | relative_url }}">Directory of town health officials</a></li>
+                            <li><a href="{{ "/resources/general-resources.html" | relative_url }}">General resources</a></li>
+						</ul>
+					</li>
+                    <li><a href="{{ "/about-this-site.html" | relative_url }}" id="aboutThisSiteLink">About this site</a></li>
+                    <li></li>
+				</ul>
+				<ul id="secondaryMenu">
+                    <li><a id="homeLink" class="first" href="{{ "/" | relative_url }}">Home</a></li>
+                    <li><a id="searchLink"  href="{{ "/search.html" | relative_url }}">Search</a></li>
+                    <li><a id="aboutUsLink" href="{{ "/about-us.html" | relative_url }}">About us</a></li>
+                    <li><a id="contactLink" href="{{ "/contact.html" | relative_url }}">Contact</a></li>
+				</ul>
+			</div>	<!-- END #header -->			
+			<div id="content">
+				<div class="grid_10 prefix_1">
+                    {{ content }}
+				</div>
+			</div>	<!-- END #content -->
+			
+			<div id="footer">
+				<ul>
+                    <li><a id="accessibilityLink" href="{{ "/accessibility.html" | relative_url }}">Accessibility</a></li>
+                    <li><a id="legalLink" href="{{ "/legal.html" | relative_url }}">Legal</a></li>
+				</ul>
+				<p>
+                    &copy;2011-18 Vermont Rental Codes. All rights reserved.<br />
+				    <a href="http://www.twitter.com/vtrentalcodes">Follow on Twitter</a>
+                </p>
+			</div>	<!-- END #footer -->
+			
+			<script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-20538059-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			</script>			
+		</div>	<!--  END .container_12 -->
+	</body>
+</html>
